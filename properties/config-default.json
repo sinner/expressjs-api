@@ -1,0 +1,188 @@
+{
+  "server": {
+    "host": "0.0.0.0",
+    "compressResponses": true,
+    "useMinimizedCss": false,
+    "port": 8888
+  },
+  "debug": {
+    "port": 5859,
+    "break": false,
+    "longStackTraces": true,
+    "console": false
+  },
+  "errors": {
+    "dumpExceptions": true,
+    "showStack": false
+  },
+  "session": {
+    "ttl": 15,
+    "secret": "secret",
+    "resave": true,
+    "saveUninitialized": false,
+    "expiredRedirect": "/login",
+    "name": "connect.sid"
+  },
+  "bodyParser": {
+    "urlencoded": {
+      "limit": "500kb"
+    },
+    "json": {
+      "limit": "500kb"
+    },
+    "text": {
+      "limit": "200kb"
+    }
+  },
+  "security": {
+    "csrf": {
+      "enabled": false,
+      "global": false,
+      "redirectUrl": ""
+    },
+    "xss": {
+      "enabled": true
+    },
+    "xframe": {
+      "enabled": true,
+      "origin": "SAMEORIGIN"
+    },
+    "csp": {
+      "enabled": true,
+      "policy": {}
+    },
+    "p3p": {
+      "enabled": false
+    }
+  },
+  "app": {
+    "name": "Express.js App API",
+    "version": "1.0.0",
+    "lang": "en-US",
+    "rootUri": "",
+    "translations": {
+      "get": "/server/resources/translations/__lng__/__ns__.json",
+      "fallbackLng": "en"
+    },
+    "disableETag": false,
+    "AUTH_USERNAME_LABEL": "X-username",
+    "AUTH_PASSWORD_LABEL": "X-password",
+    "AUTH_TOKEN_LABEL": "Authorization",
+    "HEADER_TRACE_ID": "X-B3-TraceId",
+    "HEADER_SPAN_ID": "X-B3-SpanId'",
+    "HEADER_SPAN_ID_VALUE": "6e6f64656a737569",
+    "TEST_HTTP_ERROR_CODE_LABEL": "X-http-error-code",
+    "TEST_HTTP_ERROR_MESSAGE_LABEL": "X-http-error-message"
+  },
+  "sessionTimeOut": 600000,
+  "api": {
+    "actualAPI": {
+      "baseUrl": "https://actual-api.com/api",
+      "headers": {
+        "headers": {
+          "content-type": "application/json"
+        }
+      }
+    }
+  },
+  "logging": {
+    "directory": "./logs",
+    "clustered": false,
+    "excludeClientTrace": true,
+    "shipLogs": false,
+    "clientLogLevel": "ERROR",
+    "appenders": {
+      "httpFileLog": {
+        "type": "file",
+        "filename": "./logs/http.log",
+        "maxLogSize": 20480,
+        "backups": 3,
+        "category": "http",
+        "enabled": true
+      },
+      "systemFileLog": {
+        "type": "file",
+        "filename": "./logs/system.log",
+        "maxLogSize": 20480,
+        "backups": 3,
+        "enabled": true
+      },
+      "webserviceLog": {
+        "type": "file",
+        "filename": "./logs/webservice.log",
+        "maxLogSize": 2000000,
+        "backups": 3,
+        "category": "webservice",
+        "enabled": true
+      },
+      "auditFileLog": {
+        "type": "file",
+        "filename": "./logs/audit.log",
+        "maxLogSize": 32784,
+        "backups": 3,
+        "layout": {
+          "type": "pattern",
+          "pattern": "%d{yyyy-MM-ddThh:mm:ss.SSS}%m"
+        },
+        "category": "audit",
+        "enabled": true
+      },
+      "appConsole": {
+        "type": "console",
+        "category": "app",
+        "enabled": true
+      },
+      "internalsConsole": {
+        "type": "console",
+        "category": "internals",
+        "enabled": true
+      }
+    },
+    "loggers": {
+      "global": "DEBUG",
+      "logger": "ERROR",
+      "webservice": "DEBUG",
+      "app": "DEBUG",
+      "http": "TRACE",
+      "audit": "INFO",
+      "internals": "TRACE"
+    },
+    "categories": {
+      "default": { "appenders": ["internalsConsole"], "level": "DEBUG" },
+      "global": { "appenders": ["appConsole"], "level": "DEBUG" },
+      "logger": { "appenders": ["systemFileLog"], "level": "ERROR" },
+      "webservice": { "appenders": ["webserviceLog"], "level": "DEBUG" },
+      "app": { "appenders": ["appConsole"], "level": "DEBUG" },
+      "http": { "appenders": ["httpFileLog"], "level": "TRACE" },
+      "audit": { "appenders": ["auditFileLog"], "level": "INFO" },
+      "internals": { "appenders": ["internalsConsole"], "level": "TRACE" }
+    }
+  },
+  "apiDocs": {
+    "enabled": false
+  },
+  "devEndpoint": {
+    "enabled": false
+  },
+  "showErrors": {
+    "client": true,
+    "server": true
+  },
+  "client-manifest": {
+    "watch": false
+  },
+  "endpoints": {
+    "actualAPI": {
+      "authSSO": {
+        "note": "Authentication",
+        "method": "POST",
+        "uri": "/auth/sso"
+      },
+      "usersInfo": {
+        "note": "Get user information",
+        "method": "GET",
+        "uri": "/users/info"
+      }
+    }
+  }
+}

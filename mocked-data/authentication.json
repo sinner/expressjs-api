@@ -1,0 +1,31 @@
+{
+  "validCredentials": {
+    "username": "test",
+    "password": "test"
+  },
+  "login": {
+    "success": {
+      "status": {
+        "statusCode": 200,
+        "success": true
+      },
+      "data": {
+        "id":"123456",
+        "userFullname":"Test Mocked User",
+        "status":"200",
+        "token":"EYtH1S1S4t0K3n",
+        "environment":"RP"
+      }
+    },
+    "invalid": {
+      "status": {
+        "statusCode": 401,
+        "success": false
+      },
+      "error": {
+        "message": "Invalid Credentials"
+      },
+      "message": "Invalid Credentials"
+    }
+  }
+}

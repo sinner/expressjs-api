@@ -1,0 +1,906 @@
+{
+  "allPortfolios": [
+    {
+      "id": "1",
+      "portfolioName": "portfolioName 1",
+      "thirtyPct": 95,
+      "sixtyPct": 32,
+      "ninetyPct": 67,
+      "FC": 31,
+      "portfolioReport": false
+    },
+    {
+      "id": "2",
+      "portfolioName": "portfolioName 2",
+      "thirtyPct": 43,
+      "sixtyPct": 15,
+      "ninetyPct": 17,
+      "FC": 14,
+      "portfolioReport": false
+    },
+    {
+      "id": "3",
+      "portfolioName": "portfolioName 3",
+      "thirtyPct": 44,
+      "sixtyPct": 89,
+      "ninetyPct": 89,
+      "FC": 26,
+      "portfolioReport": false
+    },
+    {
+      "id": "4",
+      "portfolioName": "portfolioName 4",
+      "thirtyPct": 40,
+      "sixtyPct": 50,
+      "ninetyPct": 49,
+      "FC": 3,
+      "portfolioReport": false
+    },
+    {
+      "id": "5",
+      "portfolioName": "portfolioName 5",
+      "thirtyPct": 10,
+      "sixtyPct": 78,
+      "ninetyPct": 54,
+      "FC": 43,
+      "portfolioReport": false
+    },
+    {
+      "id": "6",
+      "portfolioName": "portfolioName 6",
+      "thirtyPct": 57,
+      "sixtyPct": 43,
+      "ninetyPct": 18,
+      "FC": 31,
+      "portfolioReport": false
+    },
+    {
+      "id": "7",
+      "portfolioName": "portfolioName 7",
+      "thirtyPct": 80,
+      "sixtyPct": 90,
+      "ninetyPct": 49,
+      "FC": 79,
+      "portfolioReport": false
+    },
+    {
+      "id": "8",
+      "portfolioName": "portfolioName 8",
+      "thirtyPct": 82,
+      "sixtyPct": 47,
+      "ninetyPct": 45,
+      "FC": 21,
+      "portfolioReport": false
+    },
+    {
+      "id": "9",
+      "portfolioName": "portfolioName 9",
+      "thirtyPct": 13,
+      "sixtyPct": 78,
+      "ninetyPct": 93,
+      "FC": 70,
+      "portfolioReport": false
+    },
+    {
+      "id": "10",
+      "portfolioName": "portfolioName 10",
+      "thirtyPct": 8,
+      "sixtyPct": 8,
+      "ninetyPct": 33,
+      "FC": 12,
+      "portfolioReport": false
+    },
+    {
+      "id": "11",
+      "portfolioName": "portfolioName 11",
+      "thirtyPct": 16,
+      "sixtyPct": 79,
+      "ninetyPct": 66,
+      "FC": 28,
+      "portfolioReport": false
+    },
+    {
+      "id": "12",
+      "portfolioName": "portfolioName 12",
+      "thirtyPct": 4,
+      "sixtyPct": 29,
+      "ninetyPct": 52,
+      "FC": 70,
+      "portfolioReport": false
+    },
+    {
+      "id": "13",
+      "portfolioName": "portfolioName 13",
+      "thirtyPct": 74,
+      "sixtyPct": 86,
+      "ninetyPct": 94,
+      "FC": 51,
+      "portfolioReport": false
+    },
+    {
+      "id": "14",
+      "portfolioName": "portfolioName 14",
+      "thirtyPct": 92,
+      "sixtyPct": 76,
+      "ninetyPct": 69,
+      "FC": 78,
+      "portfolioReport": false
+    },
+    {
+      "id": "15",
+      "portfolioName": "portfolioName 15",
+      "thirtyPct": 64,
+      "sixtyPct": 40,
+      "ninetyPct": 79,
+      "FC": 65,
+      "portfolioReport": false
+    },
+    {
+      "id": "16",
+      "portfolioName": "portfolioName 16",
+      "thirtyPct": 57,
+      "sixtyPct": 60,
+      "ninetyPct": 53,
+      "FC": 97,
+      "portfolioReport": false
+    },
+    {
+      "id": "17",
+      "portfolioName": "portfolioName 17",
+      "thirtyPct": 65,
+      "sixtyPct": 73,
+      "ninetyPct": 87,
+      "FC": 38,
+      "portfolioReport": false
+    },
+    {
+      "id": "18",
+      "portfolioName": "portfolioName 18",
+      "thirtyPct": 7,
+      "sixtyPct": 58,
+      "ninetyPct": 0,
+      "FC": 74,
+      "portfolioReport": false
+    },
+    {
+      "id": "19",
+      "portfolioName": "portfolioName 19",
+      "thirtyPct": 93,
+      "sixtyPct": 30,
+      "ninetyPct": 42,
+      "FC": 75,
+      "portfolioReport": false
+    },
+    {
+      "id": "20",
+      "portfolioName": "portfolioName 20",
+      "thirtyPct": 6,
+      "sixtyPct": 95,
+      "ninetyPct": 65,
+      "FC": 12,
+      "portfolioReport": false
+    },
+    {
+      "id": "21",
+      "portfolioName": "portfolioName 21",
+      "thirtyPct": 17,
+      "sixtyPct": 98,
+      "ninetyPct": 3,
+      "FC": 7,
+      "portfolioReport": false
+    },
+    {
+      "id": "22",
+      "portfolioName": "portfolioName 22",
+      "thirtyPct": 0,
+      "sixtyPct": 21,
+      "ninetyPct": 89,
+      "FC": 88,
+      "portfolioReport": false
+    },
+    {
+      "id": "23",
+      "portfolioName": "portfolioName 23",
+      "thirtyPct": 43,
+      "sixtyPct": 39,
+      "ninetyPct": 81,
+      "FC": 43,
+      "portfolioReport": false
+    },
+    {
+      "id": "24",
+      "portfolioName": "portfolioName 24",
+      "thirtyPct": 25,
+      "sixtyPct": 97,
+      "ninetyPct": 7,
+      "FC": 74,
+      "portfolioReport": false
+    },
+    {
+      "id": "25",
+      "portfolioName": "portfolioName 25",
+      "thirtyPct": 80,
+      "sixtyPct": 63,
+      "ninetyPct": 69,
+      "FC": 33,
+      "portfolioReport": false
+    },
+    {
+      "id": "26",
+      "portfolioName": "portfolioName 26",
+      "thirtyPct": 15,
+      "sixtyPct": 70,
+      "ninetyPct": 60,
+      "FC": 27,
+      "portfolioReport": false
+    },
+    {
+      "id": "27",
+      "portfolioName": "portfolioName 27",
+      "thirtyPct": 76,
+      "sixtyPct": 24,
+      "ninetyPct": 1,
+      "FC": 98,
+      "portfolioReport": false
+    },
+    {
+      "id": "28",
+      "portfolioName": "portfolioName 28",
+      "thirtyPct": 95,
+      "sixtyPct": 44,
+      "ninetyPct": 32,
+      "FC": 34,
+      "portfolioReport": false
+    },
+    {
+      "id": "29",
+      "portfolioName": "portfolioName 29",
+      "thirtyPct": 55,
+      "sixtyPct": 4,
+      "ninetyPct": 68,
+      "FC": 100,
+      "portfolioReport": false
+    },
+    {
+      "id": "30",
+      "portfolioName": "portfolioName 30",
+      "thirtyPct": 38,
+      "sixtyPct": 44,
+      "ninetyPct": 78,
+      "FC": 76,
+      "portfolioReport": false
+    },
+    {
+      "id": "31",
+      "portfolioName": "portfolioName 31",
+      "thirtyPct": 41,
+      "sixtyPct": 59,
+      "ninetyPct": 32,
+      "FC": 24,
+      "portfolioReport": false
+    },
+    {
+      "id": "32",
+      "portfolioName": "portfolioName 32",
+      "thirtyPct": 81,
+      "sixtyPct": 16,
+      "ninetyPct": 55,
+      "FC": 70,
+      "portfolioReport": false
+    },
+    {
+      "id": "33",
+      "portfolioName": "portfolioName 33",
+      "thirtyPct": 41,
+      "sixtyPct": 5,
+      "ninetyPct": 12,
+      "FC": 86,
+      "portfolioReport": false
+    },
+    {
+      "id": "34",
+      "portfolioName": "portfolioName 34",
+      "thirtyPct": 33,
+      "sixtyPct": 68,
+      "ninetyPct": 71,
+      "FC": 19,
+      "portfolioReport": false
+    },
+    {
+      "id": "35",
+      "portfolioName": "portfolioName 35",
+      "thirtyPct": 90,
+      "sixtyPct": 84,
+      "ninetyPct": 69,
+      "FC": 3,
+      "portfolioReport": false
+    },
+    {
+      "id": "36",
+      "portfolioName": "portfolioName 36",
+      "thirtyPct": 77,
+      "sixtyPct": 10,
+      "ninetyPct": 14,
+      "FC": 59,
+      "portfolioReport": false
+    },
+    {
+      "id": "37",
+      "portfolioName": "portfolioName 37",
+      "thirtyPct": 43,
+      "sixtyPct": 46,
+      "ninetyPct": 62,
+      "FC": 92,
+      "portfolioReport": false
+    },
+    {
+      "id": "38",
+      "portfolioName": "portfolioName 38",
+      "thirtyPct": 95,
+      "sixtyPct": 89,
+      "ninetyPct": 52,
+      "FC": 54,
+      "portfolioReport": false
+    },
+    {
+      "id": "39",
+      "portfolioName": "portfolioName 39",
+      "thirtyPct": 15,
+      "sixtyPct": 30,
+      "ninetyPct": 70,
+      "FC": 16,
+      "portfolioReport": false
+    },
+    {
+      "id": "40",
+      "portfolioName": "portfolioName 40",
+      "thirtyPct": 13,
+      "sixtyPct": 41,
+      "ninetyPct": 37,
+      "FC": 43,
+      "portfolioReport": false
+    },
+    {
+      "id": "41",
+      "portfolioName": "portfolioName 41",
+      "thirtyPct": 87,
+      "sixtyPct": 24,
+      "ninetyPct": 62,
+      "FC": 73,
+      "portfolioReport": false
+    },
+    {
+      "id": "42",
+      "portfolioName": "portfolioName 42",
+      "thirtyPct": 70,
+      "sixtyPct": 39,
+      "ninetyPct": 79,
+      "FC": 65,
+      "portfolioReport": false
+    },
+    {
+      "id": "43",
+      "portfolioName": "portfolioName 43",
+      "thirtyPct": 55,
+      "sixtyPct": 94,
+      "ninetyPct": 47,
+      "FC": 73,
+      "portfolioReport": false
+    },
+    {
+      "id": "44",
+      "portfolioName": "portfolioName 44",
+      "thirtyPct": 30,
+      "sixtyPct": 74,
+      "ninetyPct": 39,
+      "FC": 86,
+      "portfolioReport": false
+    },
+    {
+      "id": "45",
+      "portfolioName": "portfolioName 45",
+      "thirtyPct": 29,
+      "sixtyPct": 61,
+      "ninetyPct": 94,
+      "FC": 44,
+      "portfolioReport": false
+    },
+    {
+      "id": "46",
+      "portfolioName": "portfolioName 46",
+      "thirtyPct": 92,
+      "sixtyPct": 22,
+      "ninetyPct": 85,
+      "FC": 58,
+      "portfolioReport": false
+    },
+    {
+      "id": "47",
+      "portfolioName": "portfolioName 47",
+      "thirtyPct": 32,
+      "sixtyPct": 7,
+      "ninetyPct": 27,
+      "FC": 92,
+      "portfolioReport": false
+    },
+    {
+      "id": "48",
+      "portfolioName": "portfolioName 48",
+      "thirtyPct": 20,
+      "sixtyPct": 1,
+      "ninetyPct": 51,
+      "FC": 35,
+      "portfolioReport": false
+    },
+    {
+      "id": "49",
+      "portfolioName": "portfolioName 49",
+      "thirtyPct": 53,
+      "sixtyPct": 54,
+      "ninetyPct": 96,
+      "FC": 34,
+      "portfolioReport": false
+    },
+    {
+      "id": "50",
+      "portfolioName": "portfolioName 50",
+      "thirtyPct": 62,
+      "sixtyPct": 86,
+      "ninetyPct": 17,
+      "FC": 3,
+      "portfolioReport": false
+    }
+  ],
+  "myPortfolios": [
+    {
+      "id": "1",
+      "portfolioName": "portfolioName 1",
+      "thirtyPct": 100,
+      "sixtyPct": 96,
+      "ninetyPct": 37,
+      "FC": 27,
+      "portfolioReport": false
+    },
+    {
+      "id": "2",
+      "portfolioName": "portfolioName 2",
+      "thirtyPct": 66,
+      "sixtyPct": 37,
+      "ninetyPct": 43,
+      "FC": 47,
+      "portfolioReport": false
+    },
+    {
+      "id": "3",
+      "portfolioName": "portfolioName 3",
+      "thirtyPct": 20,
+      "sixtyPct": 64,
+      "ninetyPct": 83,
+      "FC": 25,
+      "portfolioReport": false
+    },
+    {
+      "id": "4",
+      "portfolioName": "portfolioName 4",
+      "thirtyPct": 14,
+      "sixtyPct": 58,
+      "ninetyPct": 3,
+      "FC": 91,
+      "portfolioReport": false
+    },
+    {
+      "id": "5",
+      "portfolioName": "portfolioName 5",
+      "thirtyPct": 87,
+      "sixtyPct": 23,
+      "ninetyPct": 47,
+      "FC": 82,
+      "portfolioReport": false
+    },
+    {
+      "id": "6",
+      "portfolioName": "portfolioName 6",
+      "thirtyPct": 74,
+      "sixtyPct": 48,
+      "ninetyPct": 91,
+      "FC": 61,
+      "portfolioReport": false
+    },
+    {
+      "id": "7",
+      "portfolioName": "portfolioName 7",
+      "thirtyPct": 70,
+      "sixtyPct": 57,
+      "ninetyPct": 89,
+      "FC": 94,
+      "portfolioReport": false
+    },
+    {
+      "id": "8",
+      "portfolioName": "portfolioName 8",
+      "thirtyPct": 46,
+      "sixtyPct": 39,
+      "ninetyPct": 87,
+      "FC": 36,
+      "portfolioReport": false
+    },
+    {
+      "id": "9",
+      "portfolioName": "portfolioName 9",
+      "thirtyPct": 24,
+      "sixtyPct": 80,
+      "ninetyPct": 30,
+      "FC": 55,
+      "portfolioReport": false
+    },
+    {
+      "id": "10",
+      "portfolioName": "portfolioName 10",
+      "thirtyPct": 77,
+      "sixtyPct": 80,
+      "ninetyPct": 63,
+      "FC": 79,
+      "portfolioReport": false
+    },
+    {
+      "id": "11",
+      "portfolioName": "portfolioName 11",
+      "thirtyPct": 44,
+      "sixtyPct": 10,
+      "ninetyPct": 86,
+      "FC": 2,
+      "portfolioReport": false
+    },
+    {
+      "id": "12",
+      "portfolioName": "portfolioName 12",
+      "thirtyPct": 25,
+      "sixtyPct": 8,
+      "ninetyPct": 92,
+      "FC": 30,
+      "portfolioReport": false
+    },
+    {
+      "id": "13",
+      "portfolioName": "portfolioName 13",
+      "thirtyPct": 47,
+      "sixtyPct": 9,
+      "ninetyPct": 88,
+      "FC": 72,
+      "portfolioReport": false
+    },
+    {
+      "id": "14",
+      "portfolioName": "portfolioName 14",
+      "thirtyPct": 46,
+      "sixtyPct": 70,
+      "ninetyPct": 91,
+      "FC": 19,
+      "portfolioReport": false
+    },
+    {
+      "id": "15",
+      "portfolioName": "portfolioName 15",
+      "thirtyPct": 43,
+      "sixtyPct": 26,
+      "ninetyPct": 9,
+      "FC": 10,
+      "portfolioReport": false
+    },
+    {
+      "id": "16",
+      "portfolioName": "portfolioName 16",
+      "thirtyPct": 59,
+      "sixtyPct": 12,
+      "ninetyPct": 88,
+      "FC": 38,
+      "portfolioReport": false
+    },
+    {
+      "id": "17",
+      "portfolioName": "portfolioName 17",
+      "thirtyPct": 89,
+      "sixtyPct": 58,
+      "ninetyPct": 94,
+      "FC": 15,
+      "portfolioReport": false
+    },
+    {
+      "id": "18",
+      "portfolioName": "portfolioName 18",
+      "thirtyPct": 10,
+      "sixtyPct": 68,
+      "ninetyPct": 59,
+      "FC": 21,
+      "portfolioReport": false
+    },
+    {
+      "id": "19",
+      "portfolioName": "portfolioName 19",
+      "thirtyPct": 37,
+      "sixtyPct": 16,
+      "ninetyPct": 14,
+      "FC": 65,
+      "portfolioReport": false
+    },
+    {
+      "id": "20",
+      "portfolioName": "portfolioName 20",
+      "thirtyPct": 64,
+      "sixtyPct": 40,
+      "ninetyPct": 35,
+      "FC": 92,
+      "portfolioReport": false
+    },
+    {
+      "id": "21",
+      "portfolioName": "portfolioName 21",
+      "thirtyPct": 18,
+      "sixtyPct": 64,
+      "ninetyPct": 1,
+      "FC": 47,
+      "portfolioReport": false
+    },
+    {
+      "id": "22",
+      "portfolioName": "portfolioName 22",
+      "thirtyPct": 79,
+      "sixtyPct": 19,
+      "ninetyPct": 34,
+      "FC": 42,
+      "portfolioReport": false
+    },
+    {
+      "id": "23",
+      "portfolioName": "portfolioName 23",
+      "thirtyPct": 47,
+      "sixtyPct": 18,
+      "ninetyPct": 18,
+      "FC": 37,
+      "portfolioReport": false
+    },
+    {
+      "id": "24",
+      "portfolioName": "portfolioName 24",
+      "thirtyPct": 73,
+      "sixtyPct": 54,
+      "ninetyPct": 12,
+      "FC": 31,
+      "portfolioReport": false
+    },
+    {
+      "id": "25",
+      "portfolioName": "portfolioName 25",
+      "thirtyPct": 73,
+      "sixtyPct": 55,
+      "ninetyPct": 84,
+      "FC": 14,
+      "portfolioReport": false
+    },
+    {
+      "id": "26",
+      "portfolioName": "portfolioName 26",
+      "thirtyPct": 93,
+      "sixtyPct": 79,
+      "ninetyPct": 46,
+      "FC": 72,
+      "portfolioReport": false
+    },
+    {
+      "id": "27",
+      "portfolioName": "portfolioName 27",
+      "thirtyPct": 67,
+      "sixtyPct": 65,
+      "ninetyPct": 40,
+      "FC": 43,
+      "portfolioReport": false
+    },
+    {
+      "id": "28",
+      "portfolioName": "portfolioName 28",
+      "thirtyPct": 55,
+      "sixtyPct": 14,
+      "ninetyPct": 90,
+      "FC": 89,
+      "portfolioReport": false
+    },
+    {
+      "id": "29",
+      "portfolioName": "portfolioName 29",
+      "thirtyPct": 41,
+      "sixtyPct": 10,
+      "ninetyPct": 29,
+      "FC": 16,
+      "portfolioReport": false
+    },
+    {
+      "id": "30",
+      "portfolioName": "portfolioName 30",
+      "thirtyPct": 82,
+      "sixtyPct": 34,
+      "ninetyPct": 60,
+      "FC": 78,
+      "portfolioReport": false
+    },
+    {
+      "id": "31",
+      "portfolioName": "portfolioName 31",
+      "thirtyPct": 91,
+      "sixtyPct": 24,
+      "ninetyPct": 86,
+      "FC": 27,
+      "portfolioReport": false
+    },
+    {
+      "id": "32",
+      "portfolioName": "portfolioName 32",
+      "thirtyPct": 13,
+      "sixtyPct": 50,
+      "ninetyPct": 75,
+      "FC": 44,
+      "portfolioReport": false
+    },
+    {
+      "id": "33",
+      "portfolioName": "portfolioName 33",
+      "thirtyPct": 36,
+      "sixtyPct": 35,
+      "ninetyPct": 68,
+      "FC": 16,
+      "portfolioReport": false
+    },
+    {
+      "id": "34",
+      "portfolioName": "portfolioName 34",
+      "thirtyPct": 43,
+      "sixtyPct": 59,
+      "ninetyPct": 17,
+      "FC": 43,
+      "portfolioReport": false
+    },
+    {
+      "id": "35",
+      "portfolioName": "portfolioName 35",
+      "thirtyPct": 31,
+      "sixtyPct": 26,
+      "ninetyPct": 14,
+      "FC": 50,
+      "portfolioReport": false
+    },
+    {
+      "id": "36",
+      "portfolioName": "portfolioName 36",
+      "thirtyPct": 15,
+      "sixtyPct": 67,
+      "ninetyPct": 8,
+      "FC": 64,
+      "portfolioReport": false
+    },
+    {
+      "id": "37",
+      "portfolioName": "portfolioName 37",
+      "thirtyPct": 72,
+      "sixtyPct": 42,
+      "ninetyPct": 7,
+      "FC": 72,
+      "portfolioReport": false
+    },
+    {
+      "id": "38",
+      "portfolioName": "portfolioName 38",
+      "thirtyPct": 5,
+      "sixtyPct": 21,
+      "ninetyPct": 69,
+      "FC": 91,
+      "portfolioReport": false
+    },
+    {
+      "id": "39",
+      "portfolioName": "portfolioName 39",
+      "thirtyPct": 30,
+      "sixtyPct": 33,
+      "ninetyPct": 92,
+      "FC": 36,
+      "portfolioReport": false
+    },
+    {
+      "id": "40",
+      "portfolioName": "portfolioName 40",
+      "thirtyPct": 53,
+      "sixtyPct": 84,
+      "ninetyPct": 88,
+      "FC": 83,
+      "portfolioReport": false
+    },
+    {
+      "id": "41",
+      "portfolioName": "portfolioName 41",
+      "thirtyPct": 24,
+      "sixtyPct": 78,
+      "ninetyPct": 1,
+      "FC": 97,
+      "portfolioReport": false
+    },
+    {
+      "id": "42",
+      "portfolioName": "portfolioName 42",
+      "thirtyPct": 89,
+      "sixtyPct": 75,
+      "ninetyPct": 88,
+      "FC": 41,
+      "portfolioReport": false
+    },
+    {
+      "id": "43",
+      "portfolioName": "portfolioName 43",
+      "thirtyPct": 22,
+      "sixtyPct": 92,
+      "ninetyPct": 33,
+      "FC": 61,
+      "portfolioReport": false
+    },
+    {
+      "id": "44",
+      "portfolioName": "portfolioName 44",
+      "thirtyPct": 65,
+      "sixtyPct": 25,
+      "ninetyPct": 24,
+      "FC": 98,
+      "portfolioReport": false
+    },
+    {
+      "id": "45",
+      "portfolioName": "portfolioName 45",
+      "thirtyPct": 93,
+      "sixtyPct": 59,
+      "ninetyPct": 7,
+      "FC": 47,
+      "portfolioReport": false
+    },
+    {
+      "id": "46",
+      "portfolioName": "portfolioName 46",
+      "thirtyPct": 75,
+      "sixtyPct": 93,
+      "ninetyPct": 91,
+      "FC": 30,
+      "portfolioReport": false
+    },
+    {
+      "id": "47",
+      "portfolioName": "portfolioName 47",
+      "thirtyPct": 33,
+      "sixtyPct": 40,
+      "ninetyPct": 79,
+      "FC": 8,
+      "portfolioReport": false
+    },
+    {
+      "id": "48",
+      "portfolioName": "portfolioName 48",
+      "thirtyPct": 38,
+      "sixtyPct": 90,
+      "ninetyPct": 30,
+      "FC": 99,
+      "portfolioReport": false
+    },
+    {
+      "id": "49",
+      "portfolioName": "portfolioName 49",
+      "thirtyPct": 85,
+      "sixtyPct": 9,
+      "ninetyPct": 3,
+      "FC": 74,
+      "portfolioReport": false
+    },
+    {
+      "id": "50",
+      "portfolioName": "portfolioName 50",
+      "thirtyPct": 68,
+      "sixtyPct": 77,
+      "ninetyPct": 7,
+      "FC": 57,
+      "portfolioReport": false
+    }
+  ]
+}
