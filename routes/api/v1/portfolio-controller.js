@@ -15,7 +15,7 @@ export const getAllPortfoliosRoute = async (req, res) => {
 };
 
 export const getMyPortfoliosRoute = async (req, res) => {
-  res.status(200).json(successResponse(portfolioResponse.myPortfolios));
+  res.status(200).json(successResponse(portfolioResponse.myPortfolios.slice(0, 12)));
 };
 
 export const setDefaultPortfolio = async (req, res) => {
