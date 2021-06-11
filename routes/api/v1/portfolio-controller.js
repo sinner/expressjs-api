@@ -6,6 +6,7 @@ import { successResponse } from '../../../util/default-response';
 import { authorizationHeader } from '../../middleware/authorization-headers';
 
 import portfolioResponse from '../../../mocked-data/portfolios.json';
+import portfolioDetail from '../../../mocked-data/portfolioDetail.json';
 
 // create router
 export const controllerRouter = express.Router();
@@ -30,6 +31,17 @@ export const deletePortfolio = async (req, res) => {
   res.status(200).json(successResponse());
 };
 
+export const getPortfolio = async (req, res) => {
+  const portfolioID = req.query.id;
+  const indexPortfolio = portfolioResponse.myPortfolios.findIndex((item) => item.id == portfolioID );
+  const portfolioSelected = { 
+    ...portfolioResponse.myPortfolios[indexPortfolio],
+    ...portfolioDetail
+    
+  };
+  res.status(200).json(successResponse(portfolioSelected));
+};
+
 controllerRouter.use(authorizationHeader);
 
 /** @path /portfolios/all */
@@ -42,6 +54,9 @@ controllerRouter.get('/get-default-portfolio', getDefaultPortfolio);
 controllerRouter.post('/set-portfolio-default', setDefaultPortfolio);
 /** @path /portfolios/delete-portfolio */
 controllerRouter.delete('/delete-portfolio', deletePortfolio);
+/** @path /portfolios/portfolio?id */
+controllerRouter.get('/portfolio', getPortfolio);
+
 
 // create and export default register controller function
 const registerClientConfigController = registerControllerGenerator(controllerRouter);
