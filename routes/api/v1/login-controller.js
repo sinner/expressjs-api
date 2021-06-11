@@ -36,7 +36,7 @@ export const loginRoute = async (req, res) => {
 controllerRouter.use(authenticationHeader);
 
 /** @path /auth/sso */
-controllerRouter.post('/', loginRoute);
+controllerRouter.post('/login', loginRoute);
 
 // create and export default register controller function
 const registerClientConfigController = registerControllerGenerator(controllerRouter);
