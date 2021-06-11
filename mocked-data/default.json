@@ -7,6 +7,14 @@
     "data": { },
     "message": "Ok"
   },
+  "successCreation": {
+    "status": {
+      "statusCode": 201,
+      "success": true
+    },
+    "data": { },
+    "message": "Ok"
+  },
   "InternalServerError": {
     "status": {
       "statusCode": 500,

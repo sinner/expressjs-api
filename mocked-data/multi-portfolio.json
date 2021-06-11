@@ -1,0 +1,226 @@
+{
+  "validateFile": {
+    "success": {
+      "message": "The data has been validated successfully",
+      "validData": [
+        {
+          "row": 2,
+          "portfolioName": "Dummy Name 1",
+          "cusip": "CS119ICE4-A",
+          "position": "100000"
+        },
+        {
+          "row": 3,
+          "portfolioName": "Dummy Name 1",
+          "cusip": "AVAM1251-A1",
+          "position": "200000"
+        },
+        {
+          "row": 4,
+          "portfolioName": "Dummy Name 1",
+          "cusip": "AVAM1251-A2",
+          "position": "300000"
+        },
+        {
+          "row": 5,
+          "portfolioName": "Dummy Name 2",
+          "cusip": "AVAM1251-A1",
+          "position": "400000"
+        },
+        {
+          "row": 6,
+          "portfolioName": "Dummy Name 5",
+          "cusip": "AVAM1251-A1",
+          "position": "500000"
+        },
+        {
+          "row": 7,
+          "portfolioName": "Dummy Name 6",
+          "cusip": "AVAM1251-A1",
+          "position": "600000"
+        },
+        {
+          "row": 8,
+          "portfolioName": "Dummy Name 7",
+          "cusip": "AVAM1251-A1",
+          "position": "700000"
+        },
+        {
+          "row": 9,
+          "portfolioName": "Dummy Name 8",
+          "cusip": "AVAM1251-A1",
+          "position": ""
+        }
+      ]
+    },
+    "invalidFormat": {
+      "error": true,
+      "status": 400,
+      "name": "InvalidFormatFile",
+      "type": "InvalidFormatFile",
+      "message": "The provided file has an invalid format."
+    },
+    "emptyFile": {
+      "error": true,
+      "status": 400,
+      "name": "EmptyFile",
+      "type": "EmptyFile",
+      "message": "The provided file is empty."
+    },
+    "withInvalidData": {
+      "message": "The file has some invalid data. Take a look on the detailed list.",
+      "validData": [
+        {
+          "row": 2,
+          "portfolioName": "Dummy Name 1",
+          "cusip": "CS119ICE4-A",
+          "position": "100000"
+        },
+        {
+          "row": 3,
+          "portfolioName": "Dummy Name 1",
+          "cusip": "AVAM1251-A1",
+          "position": "200000"
+        },
+        {
+          "row": 4,
+          "portfolioName": "Dummy Name 1",
+          "cusip": "AVAM1251-A2",
+          "position": "300000"
+        },
+        {
+          "row": 6,
+          "portfolioName": "Dummy Name 5",
+          "cusip": "AVAM1251-A1",
+          "position": "500000"
+        },
+        {
+          "row": 7,
+          "portfolioName": "Dummy Name 6",
+          "cusip": "AVAM1251-A1",
+          "position": "600000"
+        },
+        {
+          "row": 9,
+          "portfolioName": "Dummy Name 8",
+          "cusip": "AVAM1251-A1",
+          "position": ""
+        }
+      ],
+      "invalidData": [
+        {
+          "row": 5,
+          "portfolioName": "Dummy Name 2",
+          "cusip": "AVAM1251-A9",
+          "position": "400000",
+          "message": "The CUSIP AVAM1251-A9 in the row 5 doesn't exists.",
+          "resume": "The row 5 has non-existent CUSIP."
+        },
+        {
+          "row": 8,
+          "portfolioName": "Dummy Name 7",
+          "cusip": "AVAM1251-A9",
+          "position": "700000",
+          "message": "The CUSIP AVAM1251-A9 in the row 8 doesn't exists.",
+          "resume": "The row 8 has non-existent CUSIP."
+        },
+        {
+          "row": 10,
+          "portfolioName": "Dummy Name 9",
+          "cusip": "CS119ICE4-A",
+          "position": "100000",
+          "message": "The portfolio name 'Dummy Name 9' in the row 10 already exists.",
+          "resume": "The row 10 has an already existent Portfolio Name."
+        },
+        {
+          "row": 11,
+          "portfolioName": "",
+          "cusip": "CS119ICE4-A",
+          "position": "100000",
+          "message": "You must provide a valid and non-empty portfolio name in the row 11.",
+          "resume": "The row 11 has an invalid Portfolio Name."
+        },
+        {
+          "row": 12,
+          "portfolioName": "Dummy Name 10",
+          "cusip": "",
+          "position": "100000",
+          "message": "You must provide a valid and non-empty CUSIP in the row 12.",
+          "resume": "The row 12 has an invalid CUSIP."
+        },
+        {
+          "row": 13,
+          "portfolioName": "Dummy Name 10",
+          "cusip": "",
+          "position": "100000",
+          "message": "You must provide a valid and non-empty CUSIP in the row 13.",
+          "resume": "The row 13 has an invalid CUSIP."
+        },
+        {
+          "row": 14,
+          "portfolioName": "Dummy Name 10",
+          "cusip": "",
+          "position": "100000",
+          "message": "You must provide a valid and non-empty CUSIP in the row 14.",
+          "resume": "The row 14 has an invalid CUSIP."
+        },
+        {
+          "row": 15,
+          "portfolioName": "Dummy Name 10",
+          "cusip": "",
+          "position": "100000",
+          "message": "You must provide a valid and non-empty CUSIP in the row 15.",
+          "resume": "The row 15 has an invalid CUSIP."
+        },
+        {
+          "row": 16,
+          "portfolioName": "Dummy Name 10",
+          "cusip": "",
+          "position": "100000",
+          "message": "You must provide a valid and non-empty CUSIP in the row 16.",
+          "resume": "The row 16 has an invalid CUSIP."
+        },
+        {
+          "row": 17,
+          "portfolioName": "Dummy Name 10",
+          "cusip": "",
+          "position": "100000",
+          "message": "You must provide a valid and non-empty CUSIP in the row 17.",
+          "resume": "The row 17 has an invalid CUSIP."
+        },
+        {
+          "row": 18,
+          "portfolioName": "Dummy Name 10",
+          "cusip": "",
+          "position": "100000",
+          "message": "You must provide a valid and non-empty CUSIP in the row 18.",
+          "resume": "The row 18 has an invalid CUSIP."
+        },
+        {
+          "row": 19,
+          "portfolioName": "Dummy Name 10",
+          "cusip": "",
+          "position": "100000",
+          "message": "You must provide a valid and non-empty CUSIP in the row 19.",
+          "resume": "The row 19 has an invalid CUSIP."
+        },
+        {
+          "row": 20,
+          "portfolioName": "Dummy Name 10",
+          "cusip": "",
+          "position": "100000",
+          "message": "You must provide a valid and non-empty CUSIP in the row 20.",
+          "resume": "The row 20 has an invalid CUSIP."
+        },
+        {
+          "row": 21,
+          "portfolioName": "Dummy Name 10",
+          "cusip": "",
+          "position": "100000",
+          "message": "You must provide a valid and non-empty CUSIP in the row 21.",
+          "resume": "The row 21 has an invalid CUSIP."
+        }
+      ]
+    }
+  }
+}
