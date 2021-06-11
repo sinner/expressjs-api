@@ -9,7 +9,7 @@ import registerMultiPortfolioConfigController from './multi-portfolio-controller
 
 const versionOneRouter = express.Router();
 registerHealthCheckController({ router: versionOneRouter, path: '/health' });
-registerLoginController({ router: versionOneRouter, path: '/login' });
+registerLoginController({ router: versionOneRouter, path: '/auth' });
 registerUserController({ router: versionOneRouter, path: '/users' });
 registerLogoutController({ router: versionOneRouter, path: '/logout' });
 registerPortfoliosController({ router: versionOneRouter, path: '/portfolios' });

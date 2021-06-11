@@ -65,8 +65,8 @@
       "fallbackLng": "en"
     },
     "disableETag": false,
-    "AUTH_USERNAME_LABEL": "test",
-    "AUTH_PASSWORD_LABEL": "test",
+    "AUTH_USERNAME_LABEL": "username",
+    "AUTH_PASSWORD_LABEL": "password",
     "AUTH_TOKEN_LABEL": "Authorization",
     "HEADER_TRACE_ID": "X-B3-TraceId",
     "HEADER_SPAN_ID": "X-B3-SpanId'",

@@ -3,9 +3,9 @@ import config from '../../properties/config';
 
 // eslint-disable-next-line consistent-return
 export const authenticationHeader = (req, res, next) => {
-  const usernameHeader = req.get(config.get('app:AUTH_USERNAME_LABEL'));
-  const passwordHeader = req.get(config.get('app:AUTH_PASSWORD_LABEL'));
-  if (!usernameHeader || !passwordHeader) {
+  const username = req.body[config.get('app:AUTH_USERNAME_LABEL')];
+  const password = req.body[config.get('app:AUTH_PASSWORD_LABEL')];
+  if (!username || !password) {
     res.status(401).json(standardResponse({
       message: 'You must provide the user credentials',
       status: {

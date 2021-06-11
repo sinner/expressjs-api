@@ -15,12 +15,12 @@ export const controllerRouter = express.Router();
  * @param {*} res
  */
 export const loginRoute = async (req, res) => {
-  const usernameHeader = config.get('app:AUTH_USERNAME_LABEL');
-  const passwordHeader = config.get('app:AUTH_PASSWORD_LABEL');
+  const username = req.body[config.get('app:AUTH_USERNAME_LABEL')];
+  const password = req.body[config.get('app:AUTH_PASSWORD_LABEL')];
 
   const authResponse = await AuthenticationManager.login({
-    username: req.get(usernameHeader),
-    password: req.get(passwordHeader),
+    username,
+    password,
   });
 
   res.status(get(authResponse, 'status.statusCode', 500)).json(standardResponse({
