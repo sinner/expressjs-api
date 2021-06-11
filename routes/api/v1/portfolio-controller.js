@@ -14,9 +14,20 @@ export const getAllPortfoliosRoute = async (req, res) => {
   res.status(200).json(successResponse(portfolioResponse.allPortfolios));
 };
 
-
 export const getMyPortfoliosRoute = async (req, res) => {
-  res.status(200).json(successResponse(portfolioResponse.myPortfolios));
+  res.status(200).json(successResponse(portfolioResponse.myPortfolios.slice(0, 12)));
+};
+
+export const getDefaultPortfolio = async (req, res) => {
+  res.status(200).json(successResponse(portfolioResponse.myPortfolios[0]));
+};
+
+export const setDefaultPortfolio = async (req, res) => {
+  res.status(200).json(successResponse());
+};
+
+export const deletePortfolio = async (req, res) => {
+  res.status(200).json(successResponse());
 };
 
 controllerRouter.use(authorizationHeader);
@@ -25,6 +36,12 @@ controllerRouter.use(authorizationHeader);
 controllerRouter.get('/all', getAllPortfoliosRoute);
 /** @path /portfolios/my-portfolios */
 controllerRouter.get('/my-portfolios', getMyPortfoliosRoute);
+/** @path /portfolios//get-default-portfolio */
+controllerRouter.get('/get-default-portfolio', getDefaultPortfolio);
+/** @path /portfolios/set-portfolio-default */
+controllerRouter.post('/set-portfolio-default', setDefaultPortfolio);
+/** @path /portfolios/delete-portfolio */
+controllerRouter.delete('/delete-portfolio', deletePortfolio);
 
 // create and export default register controller function
 const registerClientConfigController = registerControllerGenerator(controllerRouter);

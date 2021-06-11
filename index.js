@@ -24,9 +24,13 @@ app.use(loadBalancerRequest);
 app.use(busboy({
   highWaterMark: 2 * 1024 * 1024, // Set 2MiB buffer
 }));
+
 app.use(express.json({ limit: '200mb', extended: true }));
 app.use(express.urlencoded({ limit: '200mb', extended: true }));
-app.use(cors());
+app.use(cors({
+  "origin": "*",
+  "methods": "GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS",
+}));
 app.set('trust proxy', true);
 require('./routes').default(app);
 /* ------------------------------------------------------------ */
