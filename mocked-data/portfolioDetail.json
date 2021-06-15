@@ -1,0 +1,59 @@
+{
+  "deals": [
+    {
+      "id": 1,
+      "name": "111 Mass/2 Penn- 2006 Commercial Mortgage Pass- through certificates",
+      "selected": false
+    },
+    {
+      "id": 2,
+      "name": "111 Mass/2 Lorem Ipsum",
+      "selected": false
+    },
+    {
+      "id": 3,
+      "name": "111 Mass/2 xxxxxxxxxxxxx",
+      "selected": false
+    },
+    {
+      "id": 4,
+      "name": "111 Mass/2 Lorem Ipsum",
+      "selected": false
+    },
+    {
+      "id": 5,
+      "name": "111 Mass/2 Lorem Ipsum",
+      "selected": false
+    }
+  ],
+  "tranches": [
+    {
+      "id": "u1d",
+      "name": "AVAM1251- A1d",
+      "selected": false,
+      "position": "0.001"
+    },
+    {
+      "id": "u2d",
+      "name": "AVAM1251- A2d",
+      "selected": false,
+      "position": "0.501"
+    },
+    {
+      "id": "u3d",
+      "name": "AVAM1251- A3d",
+      "selected": false,
+      "position": "5"
+    },
+    {
+      "id": "u4d",
+      "name": "AVAM1251- A4d",
+      "selected": false
+    },
+    {
+      "id": "u5d",
+      "name": "AVAM1251- A5d",
+      "selected": false
+    }
+  ]
+}
