@@ -35,6 +35,7 @@ export const getPortfolio = async (req, res) => {
   const portfolioID = req.query.id;
   const indexPortfolio = portfolioResponse.myPortfolios.findIndex((item) => item.id == portfolioID );
   const portfolioSelected = { 
+    ...(parseInt(portfolioID) === 1 && { default: true }),
     ...portfolioResponse.myPortfolios[indexPortfolio],
     ...portfolioDetail
     
