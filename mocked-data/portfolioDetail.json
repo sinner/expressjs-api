@@ -30,17 +30,20 @@
     {
       "id": "u1d",
       "name": "AVAM1251- A1d",
-      "selected": false
+      "selected": false,
+      "position": "0.001"
     },
     {
       "id": "u2d",
       "name": "AVAM1251- A2d",
-      "selected": false
+      "selected": false,
+      "position": "0.501"
     },
     {
       "id": "u3d",
       "name": "AVAM1251- A3d",
-      "selected": false
+      "selected": false,
+      "position": "5"
     },
     {
       "id": "u4d",
