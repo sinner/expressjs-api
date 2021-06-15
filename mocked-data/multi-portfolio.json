@@ -1,7 +1,7 @@
 {
   "validateFile": {
     "success": {
-      "message": "The data has been validated successfully",
+      "message": "The data has been validated successfully.",
       "validData": [
         {
           "row": 2,
