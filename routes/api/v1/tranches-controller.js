@@ -14,10 +14,17 @@ export const getTranches= async (req, res) => {
   res.status(200).json(successResponse(tranchesResponse.tranches));
 };
 
+export const selectedTranches= async (req, res) => {
+  const selectedTranches = tranchesResponse.tranches.slice(1, 8);
+  res.status(200).json(successResponse(selectedTranches));
+};
+
 controllerRouter.use(authorizationHeader);
 
 /** @path /tranches */
 controllerRouter.get('/', getTranches);
+/** @path /tranches/selected-tranches */
+controllerRouter.get('/selected-tranches', selectedTranches);
 
 // create and export default register controller function
 const registerClientConfigController = registerControllerGenerator(controllerRouter);
