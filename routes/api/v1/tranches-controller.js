@@ -19,7 +19,7 @@ export const selectedTranches= async (req, res) => {
   res.status(200).json(successResponse(selectedTranches));
 };
 
-export const selectedTranches= async (req, res) => {
+export const selectedTranchesTime= async (req, res) => {
   const selectedTranches = tranchesResponse.tranches.slice(1, 8);
   setTimeout(() => {
     res.status(200).json(successResponse(selectedTranches));
