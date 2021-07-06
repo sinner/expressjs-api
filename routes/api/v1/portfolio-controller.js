@@ -25,8 +25,9 @@ export const getAllPortfoliosDealSnapshot= async (req, res) => {
     FC: 31,
     portfolioReport: false
   };
-  portfolioResponse.allPortfolios.unshift(allPortfolios);
-  res.status(200).json(successResponse(portfolioResponse.allPortfolios));
+  const newPortfolioData = [{...portfolioResponse.allPortfolios}];
+  newPortfolioData.unshift(allPortfolios);
+  res.status(200).json(successResponse(newPortfolioData));
 };
 
 export const getMyPortfoliosRoute = async (req, res) => {
