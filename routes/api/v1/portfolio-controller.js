@@ -27,6 +27,7 @@ export const getAllPortfoliosDealSnapshot= async (req, res) => {
   };
   const newPortfolioData = lodashClonedeep(portfolioResponse.allPortfolios);
   newPortfolioData.unshift(allPortfolios);
+  console.log('test');
   res.status(200).json(successResponse(newPortfolioData));
 };
 
