@@ -1,10 +1,10 @@
 import express from 'express';
 import get from 'lodash/get';
 import config from '../../../properties/config';
+import lodashClonedeep from 'lodash/clonedeep';
 import { registerControllerGenerator } from '../../../util/controller-helpers';
 import { successResponse } from '../../../util/default-response';
 import { authorizationHeader } from '../../middleware/authorization-headers';
-
 import portfolioResponse from '../../../mocked-data/portfolios.json';
 import portfolioDetail from '../../../mocked-data/portfolioDetail.json';
 
@@ -25,7 +25,7 @@ export const getAllPortfoliosDealSnapshot= async (req, res) => {
     FC: 31,
     portfolioReport: false
   };
-  const newPortfolioData = [{...portfolioResponse.allPortfolios}];
+  const newPortfolioData = lodashClonedeep(portfolioResponse.allPortfolios);
   newPortfolioData.unshift(allPortfolios);
   res.status(200).json(successResponse(newPortfolioData));
 };
