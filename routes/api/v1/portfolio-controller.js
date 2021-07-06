@@ -15,6 +15,21 @@ export const getAllPortfoliosRoute = async (req, res) => {
   res.status(200).json(successResponse(portfolioResponse.allPortfolios));
 };
 
+export const getAllPortfoliosDealSnapshot= async (req, res) => {
+  const allPortfolios = {
+    id: 0,
+    portfolioName: "All Deals",
+    thirtyPct: 95,
+    sixtyPct: 32,
+    ninetyPct: 67,
+    FC: 31,
+    portfolioReport: false
+  };
+  const newListPortfolios = portfolioResponse.allPortfolios;
+  newListPortfolios.unshift(allPortfolios)
+  res.status(200).json(successResponse(newListPortfolios));
+};
+
 export const getMyPortfoliosRoute = async (req, res) => {
   res.status(200).json(successResponse(portfolioResponse.myPortfolios.slice(0, 12)));
 };
@@ -51,6 +66,8 @@ controllerRouter.use(authorizationHeader);
 
 /** @path /portfolios/all */
 controllerRouter.get('/all', getAllPortfoliosRoute);
+/** @path /portfolios/deal-snapshot */
+controllerRouter.get('/deal-snapshot', getAllPortfoliosDealSnapshot);
 /** @path /portfolios/my-portfolios */
 controllerRouter.get('/my-portfolios', getMyPortfoliosRoute);
 /** @path /portfolios//get-default-portfolio */

@@ -1,0 +1,20 @@
+{
+  "dealSnapshotInfo": {
+    "bloombergID": "JPMDB 2019-COR6",
+    "dealType": "Small Balance Commercial Mortgage",
+    "currentBalance": "$803,501,535",
+    "currentLoans": "32",
+    "currentDscr": "0.49",
+    "currentLtv": "57.78",
+    "cutoffBalance": "$803,501,535",
+    "cutoffLoans": "32",
+    "cutoffDscr": "2.08",
+    "cutoffLtv": "62.49",
+    "masterServicer": "Midland Loan Services Inc.",
+    "especialServicer": "Midland Loan Services Inc.",
+    "trustee": "11/26/2019",
+    "cutoffDate": "04/03/2021",
+    "dealViewDate": "03/13/2021",
+    "irpDate": "03/13/2021"
+  }
+}
