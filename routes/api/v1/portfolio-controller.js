@@ -16,7 +16,7 @@ export const getAllPortfoliosRoute = async (req, res) => {
 
 export const getAllPortfoliosDealSnapshot= async (req, res) => {
   const allPortfolios = {
-    id: 0,
+    id: '0',
     portfolioName: "All Deals",
     thirtyPct: 95,
     sixtyPct: 32,
