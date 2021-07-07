@@ -1,0 +1,462 @@
+{
+  "reports": [
+    {
+      "id": "mcia-reports",
+      "reportTypeLabel": "MCIA Reports",
+      "reportList": [
+        {
+          "id": "ds001",
+          "name": "DealView Monitoring",
+          "downloadLink": ""
+        },
+        {
+          "id": "ds002",
+          "name": "Morningstar Loan Valuation",
+          "downloadLink": "resources/templates/QuickPortfolioTemplate.xlsx"
+        },
+        {
+          "id": "ds003",
+          "name": "Morningstar Watchlist",
+          "downloadLink": "resources/templates/QuickPortfolioTemplate.xlsx"
+        },
+        {
+          "id": "ds004",
+          "name": "Loss Vectors (Trepp)",
+          "downloadLink": "resources/templates/QuickPortfolioTemplate.xlsx"
+        },
+        {
+          "id": "ds005",
+          "name": "Loss Vectors (Intex)",
+          "downloadLink": ""
+        },
+        {
+          "id": "ds006",
+          "name": "Remittance Report",
+          "downloadLink": "resources/templates/QuickPortfolioTemplate.xlsx"
+        },
+        {
+          "id": "ds007",
+          "name": "Prospectus",
+          "downloadLink": ""
+        },
+        {
+          "id": "ds008",
+          "name": "PSA",
+          "downloadLink": ""
+        },
+        {
+          "id": "ds009",
+          "name": "Annex A",
+          "downloadLink": ""
+        }
+      ]
+    }
+  ],
+  "deal-opinion": "The largest loan, Westfield Citrus Park (10.0%) is with the special servicer and based on our concluded value, LTV is high at 105%. We consider this to be a troubled loan and maintain a highly cautious outlook. There are a total of five specially serviced loans (23.6%) including the two largest, and we are monitoring another six loans (12.2%) on our Watchlist, of which four are secured by hotels. Moreover, the pool has high exposure to retail properties (42%), which are at increased risk due to the recent string of retail bankruptcies along with the concerns arising due to the COVID-19 pandemic. Hotel loans account for 11% of the pool balance. Mitigating some of these risks, the majority of the pool (64%) is amortizing, which should help in deleveraging. Eight loans (14.8%) have defeased, which we consider to be a credit positive.",
+  "snapshot": {
+    "parametersTable": [
+      {
+        "id": "sn-total-delinquency",
+        "parameter": "Total Delinquency",
+        "numberOfLoans": 1,
+        "balance": 16699016,
+        "percentOfDeal": 2.08
+      },
+      {
+        "id": "total-special-servicing",
+        "parameter": "Total Special Servicing",
+        "numberOfLoans": 1,
+        "balance": 16699016,
+        "percentOfDeal": 69.13
+      },
+      
+      {
+        "id": "dsc-rs-above-1-25",
+        "parameter": "DSCRs above 1.25",
+        "numberOfLoans": 30,
+        "balance": 753962519,
+        "percentOfDeal": 2.08
+      },
+      
+      {
+        "id": "dsc-rs-above-1-50",
+        "parameter": "DSCRs above 1.50",
+        "numberOfLoans": 23,
+        "balance": 596779110,
+        "percentOfDeal": 69.13
+      },
+      
+      {
+        "id": "dsc-rs-below-1-10",
+        "parameter": "DSCRs below 1.10",
+        "numberOfLoans": 2,
+        "balance": 49539016,
+        "percentOfDeal": 2.08
+      },
+      {
+        "id": "dsc-rs-below-1-00",
+        "parameter": "DSCRs below 1.00",
+        "numberOfLoans": 1,
+        "balance": 16699016,
+        "percentOfDeal": 69.13
+      },
+      {
+        "id": "defeasance",
+        "parameter": "Defeasance",
+        "numberOfLoans": 0,
+        "balance": 0,
+        "percentOfDeal": 2.08
+      },
+      {
+        "id": "partial-term-i-0-loans",
+        "parameter": "Partial Term I/0 Loans",
+        "numberOfLoans": 3,
+        "balance": 71640000,
+        "percentOfDeal": 93.83
+      },
+      {
+        "id": "full-term-i-0-loans",
+        "parameter": "Full Term I/0 Loans",
+        "numberOfLoans": 20,
+        "balance": 71640000,
+        "percentOfDeal": 93.83
+      },
+      {
+        "id": "servicer-watchlist",
+        "parameter": "Servicer Watchlist",
+        "numberOfLoans": 4,
+        "balance": 71640000,
+        "percentOfDeal": 69.13
+      },
+      {
+        "id": "morningstar-watchlist",
+        "parameter": "Morningstar Watchlist",
+        "numberOfLoans": 2,
+        "balance": 71640000,
+        "percentOfDeal": 93.83
+      }
+    ],
+    "lossSummaryTable": [
+      {
+        "lossSummary": "Total Forecasted Losses",
+        "numberOfLoans": 1,
+        "balance": 16699016,
+        "percentOfDeal": 2.08
+      },
+      {
+        "lossSummary": "Forecasted Losses from Specially-Serviced Loans",
+        "numberOfLoans": 1,
+        "balance": 16699016,
+        "percentOfDeal": 69.13
+      },
+      {
+        "lossSummary": "Value Deficiency from Master-Serviced Loans",
+        "numberOfLoans": 0,
+        "balance": 753962519,
+        "percentOfDeal": 2.08
+      },
+      {
+        "lossSummary": "Expected Losses from Master-Serviced Loans",
+        "numberOfLoans": 3,
+        "balance": 596779110,
+        "percentOfDeal": 69.13
+      },
+      {
+        "lossSummary": "Historical Losses",
+        "numberOfLoans": 2,
+        "balance": 49539016,
+        "percentOfDeal": 2.08
+      }
+    ]
+  },
+  "loanValuation": [
+    {
+      "loanName": "Innovation Park",
+      "prosId": 1000,
+      "currentBalance": 16699016,
+      "totalExposure": 1200000000,
+      "capRate": 7.50,
+      "valuationMethod": "Income Approach",
+      "valuationDate": "11/21/2020",
+      "value": 1312000000,
+      "valueDefiency": 0,
+      "pd": 7.94,
+      "loss": 0,
+      "sgd": 0,
+      "timing": "104, M",
+      "hrlScore": 2,
+      "morninstarWL": "N",
+      "analystComment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, cursus a bibendum quis, porttitor et elit. Mauris facilisis fermentum arcu, vel vehicula lorem rhoncus non. Nunc risus enim, blandit aliquam feugiat eu, iaculis non dolor."
+    },
+    {
+      "loanName": "Los Angeles Leased Fee Portfolio",
+      "prosId": 2000,
+      "currentBalance": 16699016,
+      "totalExposure": 1200000000,
+      "capRate": 7.50,
+      "valuationMethod": "Appraisal",
+      "valuationDate": "06/26/2020",
+      "value": 1312000000,
+      "valueDefiency": 0,
+      "pd": 7.94,
+      "loss": 0,
+      "sgd": 0,
+      "timing": "104, M",
+      "hrlScore": 2,
+      "morninstarWL": "N",
+      "analystComment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, cursus a bibendum quis, porttitor et elit. Mauris facilisis fermentum arcu, vel vehicula lorem rhoncus non. Nunc risus enim, blandit aliquam feugiat eu, iaculis non dolor."
+    },
+    {
+      "loanName": "DSCRs above 1.25",
+      "prosId": 3000,
+      "currentBalance": 596779110,
+      "totalExposure": 1200000000,
+      "capRate": 7.50,
+      "valuationMethod": "Appraisal",
+      "valuationDate": "11/21/2020",
+      "value": 1312000000,
+      "valueDefiency": 0,
+      "pd": 7.94,
+      "loss": 0,
+      "sgd": 0,
+      "timing": "104, M",
+      "hrlScore": 2,
+      "morninstarWL": "N",
+      "analystComment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, cursus a bibendum quis, porttitor et elit. Mauris facilisis fermentum arcu, vel vehicula lorem rhoncus non. Nunc risus enim, blandit aliquam feugiat eu, iaculis non dolor."
+    },
+    {
+      "loanName": "DSCRs above 1.50",
+      "prosId": 4000,
+      "currentBalance": 596779110,
+      "totalExposure": 1200000000,
+      "capRate": 7.50,
+      "valuationMethod": "Appraisal",
+      "valuationDate": "06/26/2020",
+      "value": 1312000000,
+      "valueDefiency": 0,
+      "pd": 7.94,
+      "loss": 0,
+      "sgd": 0,
+      "timing": "104, M",
+      "hrlScore": 2,
+      "morninstarWL": "N",
+      "analystComment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, cursus a bibendum quis, porttitor et elit. Mauris facilisis fermentum arcu, vel vehicula lorem rhoncus non. Nunc risus enim, blandit aliquam feugiat eu, iaculis non dolor."
+    },
+    {
+      "loanName": "Innovation Park",
+      "prosId": 1000,
+      "currentBalance": 16699016,
+      "totalExposure": 1200000000,
+      "capRate": 7.50,
+      "valuationMethod": "Income Approach",
+      "valuationDate": "11/21/2020",
+      "value": 1312000000,
+      "valueDefiency": 0,
+      "pd": 7.94,
+      "loss": 0,
+      "sgd": 0,
+      "timing": "104, M",
+      "hrlScore": 2,
+      "morninstarWL": "N",
+      "analystComment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, cursus a bibendum quis, porttitor et elit. Mauris facilisis fermentum arcu, vel vehicula lorem rhoncus non. Nunc risus enim, blandit aliquam feugiat eu, iaculis non dolor."
+    },
+    {
+      "loanName": "Los Angeles Leased Fee Portfolio",
+      "prosId": 2000,
+      "currentBalance": 16699016,
+      "totalExposure": 1200000000,
+      "capRate": 7.50,
+      "valuationMethod": "Appraisal",
+      "valuationDate": "06/26/2020",
+      "value": 1312000000,
+      "valueDefiency": 0,
+      "pd": 7.94,
+      "loss": 0,
+      "sgd": 0,
+      "timing": "104, M",
+      "hrlScore": 2,
+      "morninstarWL": "N",
+      "analystComment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, cursus a bibendum quis, porttitor et elit. Mauris facilisis fermentum arcu, vel vehicula lorem rhoncus non. Nunc risus enim, blandit aliquam feugiat eu, iaculis non dolor."
+    },
+    {
+      "loanName": "DSCRs above 1.25",
+      "prosId": 3000,
+      "currentBalance": 596779110,
+      "totalExposure": 1200000000,
+      "capRate": 7.50,
+      "valuationMethod": "Appraisal",
+      "valuationDate": "11/21/2020",
+      "value": 1312000000,
+      "valueDefiency": 0,
+      "pd": 7.94,
+      "loss": 0,
+      "sgd": 0,
+      "timing": "104, M",
+      "hrlScore": 2,
+      "morninstarWL": "N",
+      "analystComment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, cursus a bibendum quis, porttitor et elit. Mauris facilisis fermentum arcu, vel vehicula lorem rhoncus non. Nunc risus enim, blandit aliquam feugiat eu, iaculis non dolor."
+    },
+    {
+      "loanName": "DSCRs above 1.50",
+      "prosId": 4000,
+      "currentBalance": 596779110,
+      "totalExposure": 1200000000,
+      "capRate": 7.50,
+      "valuationMethod": "Appraisal",
+      "valuationDate": "06/26/2020",
+      "value": 1312000000,
+      "valueDefiency": 0,
+      "pd": 7.94,
+      "loss": 0,
+      "sgd": 0,
+      "timing": "104, M",
+      "hrlScore": 2,
+      "morninstarWL": "N",
+      "analystComment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, cursus a bibendum quis, porttitor et elit. Mauris facilisis fermentum arcu, vel vehicula lorem rhoncus non. Nunc risus enim, blandit aliquam feugiat eu, iaculis non dolor."
+    },
+    {
+      "loanName": "Innovation Park",
+      "prosId": 1000,
+      "currentBalance": 16699016,
+      "totalExposure": 1200000000,
+      "capRate": 7.50,
+      "valuationMethod": "Income Approach",
+      "valuationDate": "11/21/2020",
+      "value": 1312000000,
+      "valueDefiency": 0,
+      "pd": 7.94,
+      "loss": 0,
+      "sgd": 0,
+      "timing": "104, M",
+      "hrlScore": 2,
+      "morninstarWL": "N",
+      "analystComment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, cursus a bibendum quis, porttitor et elit. Mauris facilisis fermentum arcu, vel vehicula lorem rhoncus non. Nunc risus enim, blandit aliquam feugiat eu, iaculis non dolor."
+    },
+    {
+      "loanName": "Los Angeles Leased Fee Portfolio",
+      "prosId": 2000,
+      "currentBalance": 16699016,
+      "totalExposure": 1200000000,
+      "capRate": 7.50,
+      "valuationMethod": "Appraisal",
+      "valuationDate": "06/26/2020",
+      "value": 1312000000,
+      "valueDefiency": 0,
+      "pd": 7.94,
+      "loss": 0,
+      "sgd": 0,
+      "timing": "104, M",
+      "hrlScore": 2,
+      "morninstarWL": "N",
+      "analystComment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, cursus a bibendum quis, porttitor et elit. Mauris facilisis fermentum arcu, vel vehicula lorem rhoncus non. Nunc risus enim, blandit aliquam feugiat eu, iaculis non dolor."
+    },
+    {
+      "loanName": "DSCRs above 1.25",
+      "prosId": 3000,
+      "currentBalance": 596779110,
+      "totalExposure": 1200000000,
+      "capRate": 7.50,
+      "valuationMethod": "Appraisal",
+      "valuationDate": "11/21/2020",
+      "value": 1312000000,
+      "valueDefiency": 0,
+      "pd": 7.94,
+      "loss": 0,
+      "sgd": 0,
+      "timing": "104, M",
+      "hrlScore": 2,
+      "morninstarWL": "N",
+      "analystComment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, cursus a bibendum quis, porttitor et elit. Mauris facilisis fermentum arcu, vel vehicula lorem rhoncus non. Nunc risus enim, blandit aliquam feugiat eu, iaculis non dolor."
+    },
+    {
+      "loanName": "DSCRs above 1.50",
+      "prosId": 4000,
+      "currentBalance": 596779110,
+      "totalExposure": 1200000000,
+      "capRate": 7.50,
+      "valuationMethod": "Appraisal",
+      "valuationDate": "06/26/2020",
+      "value": 1312000000,
+      "valueDefiency": 0,
+      "pd": 7.94,
+      "loss": 0,
+      "sgd": 0,
+      "timing": "104, M",
+      "hrlScore": 2,
+      "morninstarWL": "N",
+      "analystComment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, cursus a bibendum quis, porttitor et elit. Mauris facilisis fermentum arcu, vel vehicula lorem rhoncus non. Nunc risus enim, blandit aliquam feugiat eu, iaculis non dolor."
+    },
+    {
+      "loanName": "Innovation Park",
+      "prosId": 1000,
+      "currentBalance": 16699016,
+      "totalExposure": 1200000000,
+      "capRate": 7.50,
+      "valuationMethod": "Income Approach",
+      "valuationDate": "11/21/2020",
+      "value": 1312000000,
+      "valueDefiency": 0,
+      "pd": 7.94,
+      "loss": 0,
+      "sgd": 0,
+      "timing": "104, M",
+      "hrlScore": 2,
+      "morninstarWL": "N",
+      "analystComment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, cursus a bibendum quis, porttitor et elit. Mauris facilisis fermentum arcu, vel vehicula lorem rhoncus non. Nunc risus enim, blandit aliquam feugiat eu, iaculis non dolor."
+    },
+    {
+      "loanName": "Los Angeles Leased Fee Portfolio",
+      "prosId": 2000,
+      "currentBalance": 16699016,
+      "totalExposure": 1200000000,
+      "capRate": 7.50,
+      "valuationMethod": "Appraisal",
+      "valuationDate": "06/26/2020",
+      "value": 1312000000,
+      "valueDefiency": 0,
+      "pd": 7.94,
+      "loss": 0,
+      "sgd": 0,
+      "timing": "104, M",
+      "hrlScore": 2,
+      "morninstarWL": "N",
+      "analystComment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, cursus a bibendum quis, porttitor et elit. Mauris facilisis fermentum arcu, vel vehicula lorem rhoncus non. Nunc risus enim, blandit aliquam feugiat eu, iaculis non dolor."
+    },
+    {
+      "loanName": "DSCRs above 1.25",
+      "prosId": 3000,
+      "currentBalance": 596779110,
+      "totalExposure": 1200000000,
+      "capRate": 7.50,
+      "valuationMethod": "Appraisal",
+      "valuationDate": "11/21/2020",
+      "value": 1312000000,
+      "valueDefiency": 0,
+      "pd": 7.94,
+      "loss": 0,
+      "sgd": 0,
+      "timing": "104, M",
+      "hrlScore": 2,
+      "morninstarWL": "N",
+      "analystComment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, cursus a bibendum quis, porttitor et elit. Mauris facilisis fermentum arcu, vel vehicula lorem rhoncus non. Nunc risus enim, blandit aliquam feugiat eu, iaculis non dolor."
+    },
+    {
+      "loanName": "DSCRs above 1.50",
+      "prosId": 4000,
+      "currentBalance": 596779110,
+      "totalExposure": 1200000000,
+      "capRate": 7.50,
+      "valuationMethod": "Appraisal",
+      "valuationDate": "06/26/2020",
+      "value": 1312000000,
+      "valueDefiency": 0,
+      "pd": 7.94,
+      "loss": 0,
+      "sgd": 0,
+      "timing": "104, M",
+      "hrlScore": 2,
+      "morninstarWL": "N",
+      "analystComment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, cursus a bibendum quis, porttitor et elit. Mauris facilisis fermentum arcu, vel vehicula lorem rhoncus non. Nunc risus enim, blandit aliquam feugiat eu, iaculis non dolor."
+    }
+  ]
+}
