@@ -15,6 +15,20 @@
     "trustee": "11/26/2019",
     "cutoffDate": "04/03/2021",
     "dealViewDate": "03/13/2021",
-    "irpDate": "03/13/2021"
+    "irpDate": "03/13/2021",
+    "analystInfo": [
+      {
+        "title": "Beth A. Forbes",
+        "label": "Primary Analyst",
+        "contact": "+1 267 960-6043",
+        "email": "beth.forbes@morningstar.com",
+      },
+      {
+        "title": "Mark A Williams",
+        "label": "Backup Analyst",
+        "contact": "267-960-6027",
+        "email": "mark.williams@morningstar.com",
+      }
+    ]
   }
 }
