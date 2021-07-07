@@ -16,8 +16,8 @@ export const getDealSummary= async (req, res) => {
 
 controllerRouter.use(authorizationHeader);
 
-/** @path /deal-snapshot/ */
-controllerRouter.get('/deal-snapshot/:deal/deal-summary', getDealSummary);
+/** @path /deal-snapshot/:deal/deal-summary */
+controllerRouter.get('/:deal/deal-summary', getDealSummary);
 
 // create and export default register controller function
 export default registerControllerGenerator(controllerRouter);
