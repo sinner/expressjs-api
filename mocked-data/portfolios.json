@@ -2,7 +2,7 @@
   "allPortfolios": [
     {
       "id": "1",
-      "portfolioName": "portfolioName 1",
+      "portfolioName": "AGENCY",
       "thirtyPct": 95,
       "sixtyPct": 32,
       "ninetyPct": 67,
@@ -11,7 +11,7 @@
     },
     {
       "id": "2",
-      "portfolioName": "portfolioName 2",
+      "portfolioName": "CANADIAN DEALS",
       "thirtyPct": 43,
       "sixtyPct": 15,
       "ninetyPct": 17,
@@ -20,7 +20,7 @@
     },
     {
       "id": "3",
-      "portfolioName": "portfolioName 3",
+      "portfolioName": "CMBX1",
       "thirtyPct": 44,
       "sixtyPct": 89,
       "ninetyPct": 89,
@@ -29,7 +29,7 @@
     },
     {
       "id": "4",
-      "portfolioName": "portfolioName 4",
+      "portfolioName": "CMBX2",
       "thirtyPct": 40,
       "sixtyPct": 50,
       "ninetyPct": 49,
@@ -38,7 +38,7 @@
     },
     {
       "id": "5",
-      "portfolioName": "portfolioName 5",
+      "portfolioName": "CMBX2",
       "thirtyPct": 10,
       "sixtyPct": 78,
       "ninetyPct": 54,
@@ -47,7 +47,7 @@
     },
     {
       "id": "6",
-      "portfolioName": "portfolioName 6",
+      "portfolioName": "CMBX3",
       "thirtyPct": 57,
       "sixtyPct": 43,
       "ninetyPct": 18,
@@ -56,7 +56,7 @@
     },
     {
       "id": "7",
-      "portfolioName": "portfolioName 7",
+      "portfolioName": "CMBX4",
       "thirtyPct": 80,
       "sixtyPct": 90,
       "ninetyPct": 49,
@@ -65,7 +65,7 @@
     },
     {
       "id": "8",
-      "portfolioName": "portfolioName 8",
+      "portfolioName": "CMBX5",
       "thirtyPct": 82,
       "sixtyPct": 47,
       "ninetyPct": 45,
@@ -74,7 +74,7 @@
     },
     {
       "id": "9",
-      "portfolioName": "portfolioName 9",
+      "portfolioName": "CMBX6",
       "thirtyPct": 13,
       "sixtyPct": 78,
       "ninetyPct": 93,
@@ -83,7 +83,7 @@
     },
     {
       "id": "10",
-      "portfolioName": "portfolioName 10",
+      "portfolioName": "CMBX7",
       "thirtyPct": 8,
       "sixtyPct": 8,
       "ninetyPct": 33,
@@ -92,7 +92,7 @@
     },
     {
       "id": "11",
-      "portfolioName": "portfolioName 11",
+      "portfolioName": "CMBX8",
       "thirtyPct": 16,
       "sixtyPct": 79,
       "ninetyPct": 66,
@@ -101,7 +101,7 @@
     },
     {
       "id": "12",
-      "portfolioName": "portfolioName 12",
+      "portfolioName": "CMBX9",
       "thirtyPct": 4,
       "sixtyPct": 29,
       "ninetyPct": 52,
@@ -110,7 +110,7 @@
     },
     {
       "id": "13",
-      "portfolioName": "portfolioName 13",
+      "portfolioName": "CMBX10",
       "thirtyPct": 74,
       "sixtyPct": 86,
       "ninetyPct": 94,
@@ -119,7 +119,7 @@
     },
     {
       "id": "14",
-      "portfolioName": "portfolioName 14",
+      "portfolioName": "CMBX11",
       "thirtyPct": 92,
       "sixtyPct": 76,
       "ninetyPct": 69,
@@ -128,7 +128,7 @@
     },
     {
       "id": "15",
-      "portfolioName": "portfolioName 15",
+      "portfolioName": "RED DEALS",
       "thirtyPct": 64,
       "sixtyPct": 40,
       "ninetyPct": 79,
@@ -137,7 +137,7 @@
     },
     {
       "id": "16",
-      "portfolioName": "portfolioName 16",
+      "portfolioName": "CMBX113",
       "thirtyPct": 57,
       "sixtyPct": 60,
       "ninetyPct": 53,
@@ -146,7 +146,7 @@
     },
     {
       "id": "17",
-      "portfolioName": "portfolioName 17",
+      "portfolioName": "CMBX14",
       "thirtyPct": 65,
       "sixtyPct": 73,
       "ninetyPct": 87,
@@ -155,7 +155,7 @@
     },
     {
       "id": "18",
-      "portfolioName": "portfolioName 18",
+      "portfolioName": "CMBX15",
       "thirtyPct": 7,
       "sixtyPct": 58,
       "ninetyPct": 0,
