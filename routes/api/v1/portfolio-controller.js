@@ -22,7 +22,8 @@ export const getAllPortfoliosList = async (req, res) => {
     sixtyPct: 32,
     ninetyPct: 67,
     FC: 31,
-    portfolioReport: false
+    portfolioReport: false,
+    portfolioDealsId: []
   };
   const newPortfolioData = JSON.parse(JSON.stringify(portfolioResponse.allPortfolios));
   newPortfolioData.unshift(allDeals);
