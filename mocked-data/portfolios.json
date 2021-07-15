@@ -8,28 +8,7 @@
       "ninetyPct": 67,
       "FC": 31,
       "portfolioReport": false,
-      "portfolioDeals": [
-        {
-          "id": "B13FRR1",
-          "name": "111 Mass/2 Penn- 2006 Commercial Mortgage Pass- through certificates"
-        },
-        {
-          "id": "B13FRR2",
-          "name": "111 Mass/2 Lorem Ipsum"
-        },
-        {
-          "id": "B13FRR3",
-          "name": "111 Mass/2 xxxxxxxxxxxxx"
-        },
-        {
-          "id": "B13FRR4",
-          "name": "111 Mass/2 Lorem Ipsum"
-        },
-        {
-          "id": "B13FRR5",
-          "name": "111 Mass/2 Lorem Ipsum"
-        }
-      ]
+      "portfolioDeals": ["B13FRR1", "B13FRR2", "B13FRR3", "B13FRR4", "B13FRR5"]
     },
     {
       "id": "2",
@@ -39,20 +18,7 @@
       "ninetyPct": 17,
       "FC": 14,
       "portfolioReport": false,
-      "portfolioDeals": [
-        {
-          "id": "B13FRR1",
-          "name": "111 Mass/2 Penn- 2006 Commercial Mortgage Pass- through certificates"
-        },
-        {
-          "id": "B13FRR2",
-          "name": "111 Mass/2 Lorem Ipsum"
-        },
-        {
-          "id": "B13FRR3",
-          "name": "111 Mass/2 xxxxxxxxxxxxx"
-        }
-      ]
+      "portfolioDeals": ["B13FRR3", "B13FRR4", "B13FRR5"]
     },
     {
       "id": "3",
