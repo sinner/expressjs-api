@@ -17,7 +17,7 @@ export const getDealSummary= async (req, res) => {
 };
 
 export const getDealSnapshotInfo = async (req, res) => {
-  const dealId = req.params.deal;
+  const dealId = req.param.deal;
   res.status(200).json(successResponse(dealSnapshotResponse.dealId));
 };
 
