@@ -1,98 +1,70 @@
 {
-  "dealSnapshotInfo": {
-    "bloombergID": "JPMDB 2019-COR1",
-    "dealType": "Small Balance Commercial Mortgage",
-    "currentBalance": "$803,501,535",
-    "currentLoans": "32",
-    "currentDscr": "0.49",
-    "currentLtv": "57.78",
-    "cutoffBalance": "$803,501,535",
-    "cutoffLoans": "32",
-    "cutoffDscr": "2.08",
-    "cutoffLtv": "62.49",
-    "masterServicer": "Midland Loan Services Inc.",
-    "especialServicer": "Midland Loan Services Inc.",
-    "trustee": "11/26/2019",
-    "cutoffDate": "04/03/2021",
-    "dealViewDate": "03/13/2021",
-    "irpDate": "03/13/2021",
-    "analystInfo": [
-      {
-        "title": "Beth A. Forbes",
-        "label": "Primary Analyst",
-        "contact": "+1 267 960-6043",
-        "email": "beth.forbes@morningstar.com"
-      },
-      {
-        "title": "Mark A Williams",
-        "label": "Backup Analyst",
-        "contact": "267-960-6027",
-        "email": "mark.williams@morningstar.com"
-      }
-    ]
-  },
-  "B13FRR1": {
-    "bloombergID": "JPMDB 2019-COR2",
-    "dealType": "Small Balance Commercial Mortgage",
-    "currentBalance": "$803,501,535",
-    "currentLoans": "32",
-    "currentDscr": "0.49",
-    "currentLtv": "57.78",
-    "cutoffBalance": "$803,501,535",
-    "cutoffLoans": "32",
-    "cutoffDscr": "2.08",
-    "cutoffLtv": "62.49",
-    "masterServicer": "Midland Loan Services Inc.",
-    "especialServicer": "Midland Loan Services Inc.",
-    "trustee": "11/26/2019",
-    "cutoffDate": "04/03/2021",
-    "dealViewDate": "03/13/2021",
-    "irpDate": "03/13/2021",
-    "analystInfo": [
-      {
-        "title": "Beth A. Forbes",
-        "label": "Primary Analyst",
-        "contact": "+1 267 960-6043",
-        "email": "beth.forbes@morningstar.com"
-      },
-      {
-        "title": "Mark A Williams",
-        "label": "Backup Analyst",
-        "contact": "267-960-6027",
-        "email": "mark.williams@morningstar.com"
-      }
-    ]
-  },
-  "B13FRR2": {
-    "bloombergID": "JPMDB 2019-COR3",
-    "dealType": "Small Balance Commercial Mortgage",
-    "currentBalance": "$803,501,535",
-    "currentLoans": "32",
-    "currentDscr": "0.49",
-    "currentLtv": "57.78",
-    "cutoffBalance": "$803,501,535",
-    "cutoffLoans": "32",
-    "cutoffDscr": "2.08",
-    "cutoffLtv": "62.49",
-    "masterServicer": "Midland Loan Services Inc.",
-    "especialServicer": "Midland Loan Services Inc.",
-    "trustee": "11/26/2019",
-    "cutoffDate": "04/03/2021",
-    "dealViewDate": "03/13/2021",
-    "irpDate": "03/13/2021",
-    "analystInfo": [
-      {
-        "title": "Beth A. Forbes",
-        "label": "Primary Analyst",
-        "contact": "+1 267 960-6043",
-        "email": "beth.forbes@morningstar.com"
-      },
-      {
-        "title": "Mark A Williams",
-        "label": "Backup Analyst",
-        "contact": "267-960-6027",
-        "email": "mark.williams@morningstar.com"
-      }
-    ]
-  }
+  "dealSnapshotInfo": [
+    {
+      "id": "B13FRR1",
+      "bloombergID": "JPMDB 2019-COR1",
+      "dealType": "Small Balance Commercial Mortgage",
+      "currentBalance": "$803,501,535",
+      "currentLoans": "32",
+      "currentDscr": "0.49",
+      "currentLtv": "57.78",
+      "cutoffBalance": "$803,501,535",
+      "cutoffLoans": "32",
+      "cutoffDscr": "2.08",
+      "cutoffLtv": "62.49",
+      "masterServicer": "Midland Loan Services Inc.",
+      "especialServicer": "Midland Loan Services Inc.",
+      "trustee": "11/26/2019",
+      "cutoffDate": "04/03/2021",
+      "dealViewDate": "03/13/2021",
+      "irpDate": "03/13/2021",
+      "analystInfo": [
+        {
+          "title": "Beth A. Forbes",
+          "label": "Primary Analyst",
+          "contact": "+1 267 960-6043",
+          "email": "beth.forbes@morningstar.com"
+        },
+        {
+          "title": "Mark A Williams",
+          "label": "Backup Analyst",
+          "contact": "267-960-6027",
+          "email": "mark.williams@morningstar.com"
+        }
+      ]
+    },
+    {
+      "id": "B13FRR2",
+      "bloombergID": "JPMDB 2019-COR2",
+      "dealType": "Small Balance Commercial Mortgage",
+      "currentBalance": "$803,501,535",
+      "currentLoans": "32",
+      "currentDscr": "0.49",
+      "currentLtv": "57.78",
+      "cutoffBalance": "$803,501,535",
+      "cutoffLoans": "32",
+      "cutoffDscr": "2.08",
+      "cutoffLtv": "62.49",
+      "masterServicer": "Midland Loan Services Inc.",
+      "especialServicer": "Midland Loan Services Inc.",
+      "trustee": "11/26/2019",
+      "cutoffDate": "04/03/2021",
+      "dealViewDate": "03/13/2021",
+      "irpDate": "03/13/2021",
+      "analystInfo": [
+        {
+          "title": "Beth A. Forbes",
+          "label": "Primary Analyst",
+          "contact": "+1 267 960-6043",
+          "email": "beth.forbes@morningstar.com"
+        },
+        {
+          "title": "Mark A Williams",
+          "label": "Backup Analyst",
+          "contact": "267-960-6027",
+          "email": "mark.williams@morningstar.com"
+        }
+      ]
+    }
+  ]
 }
