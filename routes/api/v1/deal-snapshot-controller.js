@@ -18,7 +18,7 @@ export const getDealSummary= async (req, res) => {
 
 export const getDealSnapshotInfo = async (req, res) => {
   const dealId = req.params.deal;
-  const dealInfoIndex = dealSnapshotResponse.findIndex((item) => item.id == dealId);
+  const dealInfoIndex = dealSnapshotResponse.dealSnapshotInfo.findIndex((item) => item.id == dealId);
   res.status(200).json(successResponse(dealSnapshotResponse.dealSnapshotInfo[dealInfoIndex]));
 };
 
