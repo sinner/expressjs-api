@@ -19,7 +19,12 @@ export const getDealSummary= async (req, res) => {
 export const getDealSnapshotInfo = async (req, res) => {
   const dealId = req.params.deal;
   const dealInfoIndex = dealSnapshotResponse.dealSnapshotInfo.findIndex((item) => item.id == dealId);
-  res.status(200).json(successResponse(dealSnapshotResponse.dealSnapshotInfo[dealInfoIndex]));
+  if (dealInfoIndex === null) {
+    res.status(200).json(successResponse(dealSnapshotResponse.dealSnapshotInfo[0]));
+  } else {
+    res.status(200).json(successResponse(dealSnapshotResponse.dealSnapshotInfo[dealInfoIndex]));
+  }
+  
 };
 
 controllerRouter.use(authorizationHeader);
