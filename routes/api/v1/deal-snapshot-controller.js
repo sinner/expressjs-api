@@ -17,7 +17,8 @@ export const getDealSummary= async (req, res) => {
 };
 
 export const getDealSnapshotInfo = async (req, res) => {
-  res.status(200).json(successResponse(dealSnapshotResponse.dealSnapshotInfo));
+  const idDeal = req.params.dealId;
+  res.status(200).json(successResponse(dealSnapshotResponse.idDeal));
 };
 
 controllerRouter.use(authorizationHeader);
