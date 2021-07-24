@@ -89,7 +89,7 @@ controllerRouter.get('/portfolio', getPortfolio);
 /** @path /portfolios/save-portfolio */
 controllerRouter.put('/save-portfolio', savePortfolio);
 /** @path /portfolios/add-deal-portfolio */
-controllerRouter.post('/portfolios/add-deal-portfolio', addDealOnPortfolio);
+controllerRouter.post('/add-deal-portfolio', addDealOnPortfolio);
 
 
 
