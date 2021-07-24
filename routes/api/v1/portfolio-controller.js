@@ -88,8 +88,8 @@ controllerRouter.delete('/delete-portfolio', deletePortfolio);
 controllerRouter.get('/portfolio', getPortfolio);
 /** @path /portfolios/save-portfolio */
 controllerRouter.put('/save-portfolio', savePortfolio);
-/** @path /portfolios/:portfolio/:deal */
-controllerRouter.post('/:portfolio/:deal', addDealOnPortfolio);
+/** @path /portfolios/add-deal-portfolio */
+controllerRouter.post('/portfolios/add-deal-portfolio', addDealOnPortfolio);
 
 
 
