@@ -519,8 +519,8 @@
       "sixtyPct": 96,
       "ninetyPct": 37,
       "FC": 27,
-      "portfolioReport": false
-      
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4"]
     },
     {
       "id": "2",
