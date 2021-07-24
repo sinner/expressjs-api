@@ -44,8 +44,8 @@ export const setDefaultPortfolio = async (req, res) => {
 export const addDealOnPortfolio = async (req, res) => {
   const dealId = req.params.deal;
   const portfolioId = req.params.portfolio;
-  if (portfolioResponse.allPortfolios[portfolioId].portfolioDeals.includes(dealId)) {
-    portfolioResponse.allPortfolios[portfolioId].portfolioDeals.push(dealId);
+  if (portfolioResponse.myPortfolios[portfolioId].portfolioDeals.includes(dealId)) {
+    portfolioResponse.myPortfolios[portfolioId].portfolioDeals.push(dealId);
   }
   res.status(200).json(successResponse());
 };
