@@ -19,6 +19,7 @@ export const getDealSummary= async (req, res) => {
 
 export const getClassStructure= async (req, res) => {
   res.status(200).json(successResponse(dealSnapshotClassStructureResponse));
+};
 
 export const getDealSnapshotInfo = async (req, res) => {
   const dealId = req.params.deal;
