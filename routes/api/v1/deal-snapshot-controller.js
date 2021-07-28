@@ -17,6 +17,9 @@ export const getDealSummary= async (req, res) => {
   res.status(200).json(successResponse(dealSnapshotSummaryResponse));
 };
 
+export const getClassStructure= async (req, res) => {
+  res.status(200).json(successResponse(dealSnapshotClassStructureResponse));
+
 export const getDealSnapshotInfo = async (req, res) => {
   const dealId = req.params.deal;
   const dealInfoIndex = dealSnapshotResponse.dealSnapshotInfo.findIndex((item) => item.id == dealId);
@@ -35,6 +38,9 @@ controllerRouter.get('/:deal/deal-summary', getDealSummary);
 
 /** @path /deal-snapshot/:deal */
 controllerRouter.get('/:deal/', getDealSnapshotInfo);
+
+/** @path /deal-snapshot/:deal/class-structure */
+controllerRouter.get('/:deal/class-structure', getClassStructure);
 
 // create and export default register controller function
 export default registerControllerGenerator(controllerRouter);
