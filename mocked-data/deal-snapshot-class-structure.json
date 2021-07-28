@@ -3,20 +3,20 @@
     {
       "tranche": "A1",
       "originalBalance": 1200000000,
-      "currentBlanace": 178992000,
+      "currentBalance": 178992000,
       "forecastedBalance": 318234000,
       "origcs": 19.34,
       "curcs": 19.34,
       "fcstcs": 9.34,
-      "subLoss": 0.94,
-      "trancheLoss": 0,
+      "subLossTranche": 0.94,
+      "loss": 0,
       "coupon": 3.30,
       "statedMaturity": "02/15/2020"
     },
     {
       "tranche": "A2",
       "originalBalance": 1200000000,
-      "currentBlanace": 178992000,
+      "currentBalance": 178992000,
       "forecastedBalance": 318234000,
       "origcs": 19.34,
       "curcs": 19.34,
@@ -29,7 +29,7 @@
     {
       "tranche": "ASB",
       "originalBalance": 1200000000,
-      "currentBlanace": 178992000,
+      "currentBalance": 178992000,
       "forecastedBalance": 318234000,
       "origcs": 19.34,
       "curcs": 19.34,
@@ -42,7 +42,7 @@
     {
       "tranche": "A1",
       "originalBalance": 1200000000,
-      "currentBlanace": 178992000,
+      "currentBalance": 178992000,
       "forecastedBalance": 318234000,
       "origcs": 19.34,
       "curcs": 19.34,
@@ -55,7 +55,7 @@
     {
       "tranche": "A2",
       "originalBalance": 1200000000,
-      "currentBlanace": 178992000,
+      "currentBalance": 178992000,
       "forecastedBalance": 318234000,
       "origcs": 19.34,
       "curcs": 19.34,
