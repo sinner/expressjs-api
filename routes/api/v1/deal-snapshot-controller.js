@@ -6,6 +6,7 @@ import { successResponse } from '../../../util/default-response';
 import { authorizationHeader } from '../../middleware/authorization-headers';
 
 import dealSnapshotSummaryResponse from '../../../mocked-data/deal-snapshot--deal-summary.json';
+import dealSnapshotClassStructureResponse from '../../../mocked-data/deal-snapshot-class-structure.json';
 
 import dealSnapshotResponse from '../../../mocked-data/dealSnapshot.json';
 
