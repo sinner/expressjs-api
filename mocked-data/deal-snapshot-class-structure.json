@@ -40,7 +40,46 @@
       "statedMaturity": "02/15/2020"
     },
     {
-      "tranche": "A1",
+      "tranche": "A2",
+      "originalBalance": 1200000000,
+      "currentBalance": 178992000,
+      "forecastedBalance": 318234000,
+      "origcs": 19.34,
+      "curcs": 19.34,
+      "fcstcs": 9.34,
+      "subLossTranche": 0.94,
+      "loss": 0,
+      "coupon": 3.30,
+      "statedMaturity": "02/15/2020"
+    },
+    {
+      "tranche": "ASB",
+      "originalBalance": 1200000000,
+      "currentBalance": 178992000,
+      "forecastedBalance": 318234000,
+      "origcs": 19.34,
+      "curcs": 19.34,
+      "fcstcs": 9.34,
+      "subLossTranche": 0.94,
+      "loss": 0,
+      "coupon": 3.30,
+      "statedMaturity": "02/15/2020"
+    },
+    {
+      "tranche": "A2",
+      "originalBalance": 1200000000,
+      "currentBalance": 178992000,
+      "forecastedBalance": 318234000,
+      "origcs": 19.34,
+      "curcs": 19.34,
+      "fcstcs": 9.34,
+      "subLossTranche": 0.94,
+      "loss": 0,
+      "coupon": 3.30,
+      "statedMaturity": "02/15/2020"
+    },
+    {
+      "tranche": "ASB",
       "originalBalance": 1200000000,
       "currentBalance": 178992000,
       "forecastedBalance": 318234000,
@@ -65,7 +104,6 @@
       "coupon": 3.30,
       "statedMaturity": "02/15/2020"
     }
-    
   ],
   "rakedTranches": [
     {
@@ -82,19 +120,19 @@
     },
     {
       "tranche": "A1",
-      "originalTrancheBalance": 16699016,
+      "originalTrancheBalance": 753962519,
       "currentTrancheBalance": 0,
       "loanName": "BankNoteBuilding"
     },
     {
       "tranche": "A1",
-      "originalTrancheBalance": 16699016,
+      "originalTrancheBalance": 596779110,
       "currentTrancheBalance": 0,
       "loanName": "BankNoteBuilding"
     },
     {
       "tranche": "A1",
-      "originalTrancheBalance": 16699016,
+      "originalTrancheBalance": 49539016,
       "currentTrancheBalance": 0,
       "loanName": "BankNoteBuilding"
     }
