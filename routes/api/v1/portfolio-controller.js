@@ -41,7 +41,7 @@ export const setDefaultPortfolio = async (req, res) => {
   res.status(200).json(successResponse());
 };
 
-export const addDealOnPortfolio = async (req, res) => {
+export const addDealToPortfolio = async (req, res) => {
   res.status(200).json(successResponse());
 };
 
@@ -83,8 +83,8 @@ controllerRouter.delete('/delete-portfolio', deletePortfolio);
 controllerRouter.get('/portfolio', getPortfolio);
 /** @path /portfolios/save-portfolio */
 controllerRouter.put('/save-portfolio', savePortfolio);
-/** @path /portfolios/add-deal-portfolio */
-controllerRouter.post('/add-deal-portfolio', addDealOnPortfolio);
+/** @path /portfolios/:deal/:portfolio */
+controllerRouter.put('/:deal/:portfolio', addDealToPortfolio);
 
 
 
