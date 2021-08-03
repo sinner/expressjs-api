@@ -9,6 +9,7 @@ import registerDealsController from './deals-controller';
 import registerDealSnapshotController from './deal-snapshot-controller';
 import registerTranchesController from './tranches-controller';
 import registerMultiPortfolioConfigController from './multi-portfolio-controller';
+import registerUsersManagementController from './user-management-controller';
 
 const versionOneRouter = express.Router();
 registerHealthCheckController({ router: versionOneRouter, path: '/health' });
@@ -21,5 +22,6 @@ registerDealsController({ router: versionOneRouter, path: '/deals' });
 registerTranchesController({ router: versionOneRouter, path: '/tranches' });
 registerMultiPortfolioConfigController({ router: versionOneRouter, path: '/multi-portfolio' });
 registerDealSnapshotController({ router: versionOneRouter, path: '/deal-snapshot' });
+registerUsersManagementController({ router: versionOneRouter, path: '/user-management' });
 
 export default versionOneRouter;
