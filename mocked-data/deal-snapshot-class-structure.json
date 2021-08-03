@@ -1,0 +1,266 @@
+{
+  "classStructure": [
+    {
+      "tranche": "A1",
+      "originalBalance": 1200000000,
+      "currentBalance": 178992000,
+      "forecastedBalance": 318234000,
+      "origcs": 19.34,
+      "curcs": 19.34,
+      "fcstcs": 9.34,
+      "subLossTranche": 0.94,
+      "loss": 0,
+      "coupon": 3.30,
+      "statedMaturity": "02/15/2020"
+    },
+    {
+      "tranche": "A2",
+      "originalBalance": 1200000000,
+      "currentBalance": 178992000,
+      "forecastedBalance": 318234000,
+      "origcs": 19.34,
+      "curcs": 19.34,
+      "fcstcs": 9.34,
+      "subLossTranche": 0.94,
+      "loss": 0,
+      "coupon": 3.30,
+      "statedMaturity": "02/15/2020"
+    },
+    {
+      "tranche": "ASB",
+      "originalBalance": 1200000000,
+      "currentBalance": 178992000,
+      "forecastedBalance": 318234000,
+      "origcs": 19.34,
+      "curcs": 19.34,
+      "fcstcs": 9.34,
+      "subLossTranche": 0.94,
+      "loss": 0,
+      "coupon": 3.30,
+      "statedMaturity": "02/15/2020"
+    },
+    {
+      "tranche": "A2",
+      "originalBalance": 1200000000,
+      "currentBalance": 178992000,
+      "forecastedBalance": 318234000,
+      "origcs": 19.34,
+      "curcs": 19.34,
+      "fcstcs": 9.34,
+      "subLossTranche": 0.94,
+      "loss": 0,
+      "coupon": 3.30,
+      "statedMaturity": "02/15/2020"
+    },
+    {
+      "tranche": "ASB",
+      "originalBalance": 1200000000,
+      "currentBalance": 178992000,
+      "forecastedBalance": 318234000,
+      "origcs": 19.34,
+      "curcs": 19.34,
+      "fcstcs": 9.34,
+      "subLossTranche": 0.94,
+      "loss": 0,
+      "coupon": 3.30,
+      "statedMaturity": "02/15/2020"
+    },
+    {
+      "tranche": "A2",
+      "originalBalance": 1200000000,
+      "currentBalance": 178992000,
+      "forecastedBalance": 318234000,
+      "origcs": 19.34,
+      "curcs": 19.34,
+      "fcstcs": 9.34,
+      "subLossTranche": 0.94,
+      "loss": 0,
+      "coupon": 3.30,
+      "statedMaturity": "02/15/2020"
+    },
+    {
+      "tranche": "ASB",
+      "originalBalance": 1200000000,
+      "currentBalance": 178992000,
+      "forecastedBalance": 318234000,
+      "origcs": 19.34,
+      "curcs": 19.34,
+      "fcstcs": 9.34,
+      "subLossTranche": 0.94,
+      "loss": 0,
+      "coupon": 3.30,
+      "statedMaturity": "02/15/2020"
+    },
+    {
+      "tranche": "A2",
+      "originalBalance": 1200000000,
+      "currentBalance": 178992000,
+      "forecastedBalance": 318234000,
+      "origcs": 19.34,
+      "curcs": 19.34,
+      "fcstcs": 9.34,
+      "subLossTranche": 0.94,
+      "loss": 0,
+      "coupon": 3.30,
+      "statedMaturity": "02/15/2020"
+    }
+  ],
+  "rakedTranches": [
+    {
+      "tranche": "A1",
+      "originalTrancheBalance": 16699016,
+      "currentTrancheBalance": 0,
+      "loanName": "BankNoteBuilding"
+    },
+    {
+      "tranche": "A1",
+      "originalTrancheBalance": 16699016,
+      "currentTrancheBalance": 0,
+      "loanName": "BankNoteBuilding"
+    },
+    {
+      "tranche": "A1",
+      "originalTrancheBalance": 753962519,
+      "currentTrancheBalance": 0,
+      "loanName": "BankNoteBuilding"
+    },
+    {
+      "tranche": "A1",
+      "originalTrancheBalance": 596779110,
+      "currentTrancheBalance": 0,
+      "loanName": "BankNoteBuilding"
+    },
+    {
+      "tranche": "A1",
+      "originalTrancheBalance": 49539016,
+      "currentTrancheBalance": 0,
+      "loanName": "BankNoteBuilding"
+    }
+    
+  ],
+  "additionalTranches": [
+    {
+      "tranche": "R",
+      "originalBalance": 62253800,
+      "currentBalance": 62253800,
+      "coupon": 0.01,
+      "statedMaturity": "11/13/2029"
+    },
+    {
+      "tranche": "XA",
+      "originalBalance": 62253800,
+      "currentBalance": 62253800,
+      "coupon": 0.01,
+      "statedMaturity": "11/13/2029"
+    },
+    {
+      "tranche": "R",
+      "originalBalance": 62253800,
+      "currentBalance": 62253800,
+      "coupon": 0.01,
+      "statedMaturity": "11/13/2029"
+    },
+    {
+      "tranche": "XA",
+      "originalBalance": 62253800,
+      "currentBalance": 62253800,
+      "coupon": 0.01,
+      "statedMaturity": "11/13/2029"
+    },
+    {
+      "tranche": "R",
+      "originalBalance": 62253800,
+      "currentBalance": 62253800,
+      "coupon": 0.01,
+      "statedMaturity": "11/13/2029"
+    }
+  ],
+  "interestReconciliationDetail": [
+    {
+      "tranche": "A1",
+      "accruedInt": 810569,
+      "intDistribution": 810569,
+      "intShortfall": "NR",
+      "remainingUnpaidInt": 622538000,
+      "t-1": 1048,
+      "t-2": 1048,
+      "t-3": 1048,
+      "t-4": 1048,
+      "t-5": 1048,
+      "t-6": 1048,
+      "t-7": 1048,
+      "t-8": 1048,
+      "t-9": 1048,
+      "t-10": 1048
+    },
+    {
+      "tranche": "A1",
+      "accruedInt": 810569,
+      "intDistribution": 810569,
+      "intShortfall": "NR",
+      "remainingUnpaidInt": 622538000,
+      "t-1": 1048,
+      "t-2": 1048,
+      "t-3": 1048,
+      "t-4": 1048,
+      "t-5": 1048,
+      "t-6": 1048,
+      "t-7": 1048,
+      "t-8": 1048,
+      "t-9": 1048,
+      "t-10": 1048
+    },
+    {
+      "tranche": "A1",
+      "accruedInt": 810569,
+      "intDistribution": 810569,
+      "intShortfall": "NR",
+      "remainingUnpaidInt": 622538000,
+      "t-1": 1048,
+      "t-2": 1048,
+      "t-3": 1048,
+      "t-4": 1048,
+      "t-5": 1048,
+      "t-6": 1048,
+      "t-7": 1048,
+      "t-8": 1048,
+      "t-9": 1048,
+      "t-10": 1048
+    },
+    {
+      "tranche": "A1",
+      "accruedInt": 810569,
+      "intDistribution": 810569,
+      "intShortfall": "NR",
+      "remainingUnpaidInt": 622538000,
+      "t-1": 1048,
+      "t-2": 1048,
+      "t-3": 1048,
+      "t-4": 1048,
+      "t-5": 1048,
+      "t-6": 1048,
+      "t-7": 1048,
+      "t-8": 1048,
+      "t-9": 1048,
+      "t-10": 1048
+    },
+    {
+      "tranche": "A1",
+      "accruedInt": 810569,
+      "intDistribution": 810569,
+      "intShortfall": "NR",
+      "remainingUnpaidInt": 622538000,
+      "t-1": 1048,
+      "t-2": 1048,
+      "t-3": 1048,
+      "t-4": 1048,
+      "t-5": 1048,
+      "t-6": 1048,
+      "t-7": 1048,
+      "t-8": 1048,
+      "t-9": 1048,
+      "t-10": 1048
+    }
+  ]
+  
+}

@@ -41,6 +41,10 @@ export const setDefaultPortfolio = async (req, res) => {
   res.status(200).json(successResponse());
 };
 
+export const addDealToPortfolio = async (req, res) => {
+  res.status(200).json(successResponse());
+};
+
 export const savePortfolio = async (req, res) => {
   res.status(200).json(successResponse());
 };
@@ -79,6 +83,9 @@ controllerRouter.delete('/delete-portfolio', deletePortfolio);
 controllerRouter.get('/portfolio', getPortfolio);
 /** @path /portfolios/save-portfolio */
 controllerRouter.put('/save-portfolio', savePortfolio);
+/** @path /portfolios/:deal/:portfolio */
+controllerRouter.put('/:deal/:portfolio', addDealToPortfolio);
+
 
 
 // create and export default register controller function

@@ -7,7 +7,8 @@
       "sixtyPct": 32,
       "ninetyPct": 67,
       "FC": 31,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR2", "B13FRR3", "B13FRR4", "B13FRR5"]
     },
     {
       "id": "2",
@@ -16,7 +17,8 @@
       "sixtyPct": 15,
       "ninetyPct": 17,
       "FC": 14,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR3", "B13FRR4", "B13FRR5"]
     },
     {
       "id": "3",
@@ -25,7 +27,8 @@
       "sixtyPct": 89,
       "ninetyPct": 89,
       "FC": 26,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR2", "B13FRR4", "B13FRR6"]
     },
     {
       "id": "4",
@@ -34,7 +37,8 @@
       "sixtyPct": 50,
       "ninetyPct": 49,
       "FC": 3,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "5",
@@ -43,7 +47,8 @@
       "sixtyPct": 78,
       "ninetyPct": 54,
       "FC": 43,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "6",
@@ -52,7 +57,8 @@
       "sixtyPct": 43,
       "ninetyPct": 18,
       "FC": 31,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR3", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "7",
@@ -61,7 +67,8 @@
       "sixtyPct": 90,
       "ninetyPct": 49,
       "FC": 79,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR3", "B13FRR2", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "8",
@@ -70,7 +77,9 @@
       "sixtyPct": 47,
       "ninetyPct": 45,
       "FC": 21,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
+      
     },
     {
       "id": "9",
@@ -79,7 +88,8 @@
       "sixtyPct": 78,
       "ninetyPct": 93,
       "FC": 70,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "10",
@@ -88,7 +98,8 @@
       "sixtyPct": 8,
       "ninetyPct": 33,
       "FC": 12,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR2", "B13FRR4", "B13FRR3", "B13FRR5"]
     },
     {
       "id": "11",
@@ -97,7 +108,8 @@
       "sixtyPct": 79,
       "ninetyPct": 66,
       "FC": 28,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "12",
@@ -106,7 +118,9 @@
       "sixtyPct": 29,
       "ninetyPct": 52,
       "FC": 70,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
+      
     },
     {
       "id": "13",
@@ -115,7 +129,8 @@
       "sixtyPct": 86,
       "ninetyPct": 94,
       "FC": 51,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "14",
@@ -124,7 +139,9 @@
       "sixtyPct": 76,
       "ninetyPct": 69,
       "FC": 78,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR3", "B13FRR4", "B13FRR6", "B13FRR5"]
+      
     },
     {
       "id": "15",
@@ -133,7 +150,8 @@
       "sixtyPct": 40,
       "ninetyPct": 79,
       "FC": 65,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR2", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "16",
@@ -142,7 +160,8 @@
       "sixtyPct": 60,
       "ninetyPct": 53,
       "FC": 97,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "17",
@@ -151,7 +170,9 @@
       "sixtyPct": 73,
       "ninetyPct": 87,
       "FC": 38,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR3", "B13FRR6"]
+      
     },
     {
       "id": "18",
@@ -160,7 +181,9 @@
       "sixtyPct": 58,
       "ninetyPct": 0,
       "FC": 74,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
+      
     },
     {
       "id": "19",
@@ -169,7 +192,9 @@
       "sixtyPct": 30,
       "ninetyPct": 42,
       "FC": 75,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
+      
     },
     {
       "id": "20",
@@ -178,7 +203,9 @@
       "sixtyPct": 95,
       "ninetyPct": 65,
       "FC": 12,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
+      
     },
     {
       "id": "21",
@@ -187,7 +214,9 @@
       "sixtyPct": 98,
       "ninetyPct": 3,
       "FC": 7,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
+      
     },
     {
       "id": "22",
@@ -196,7 +225,9 @@
       "sixtyPct": 21,
       "ninetyPct": 89,
       "FC": 88,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
+      
     },
     {
       "id": "23",
@@ -205,7 +236,9 @@
       "sixtyPct": 39,
       "ninetyPct": 81,
       "FC": 43,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
+      
     },
     {
       "id": "24",
@@ -214,7 +247,8 @@
       "sixtyPct": 97,
       "ninetyPct": 7,
       "FC": 74,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "25",
@@ -223,7 +257,8 @@
       "sixtyPct": 63,
       "ninetyPct": 69,
       "FC": 33,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "26",
@@ -232,7 +267,8 @@
       "sixtyPct": 70,
       "ninetyPct": 60,
       "FC": 27,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "27",
@@ -241,7 +277,8 @@
       "sixtyPct": 24,
       "ninetyPct": 1,
       "FC": 98,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "28",
@@ -250,7 +287,8 @@
       "sixtyPct": 44,
       "ninetyPct": 32,
       "FC": 34,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "29",
@@ -259,7 +297,8 @@
       "sixtyPct": 4,
       "ninetyPct": 68,
       "FC": 100,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "30",
@@ -268,7 +307,8 @@
       "sixtyPct": 44,
       "ninetyPct": 78,
       "FC": 76,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "31",
@@ -277,7 +317,8 @@
       "sixtyPct": 59,
       "ninetyPct": 32,
       "FC": 24,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "32",
@@ -286,7 +327,8 @@
       "sixtyPct": 16,
       "ninetyPct": 55,
       "FC": 70,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "33",
@@ -295,7 +337,8 @@
       "sixtyPct": 5,
       "ninetyPct": 12,
       "FC": 86,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "34",
@@ -304,7 +347,8 @@
       "sixtyPct": 68,
       "ninetyPct": 71,
       "FC": 19,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "35",
@@ -313,7 +357,8 @@
       "sixtyPct": 84,
       "ninetyPct": 69,
       "FC": 3,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "36",
@@ -322,7 +367,8 @@
       "sixtyPct": 10,
       "ninetyPct": 14,
       "FC": 59,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "37",
@@ -331,7 +377,8 @@
       "sixtyPct": 46,
       "ninetyPct": 62,
       "FC": 92,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "38",
@@ -340,7 +387,8 @@
       "sixtyPct": 89,
       "ninetyPct": 52,
       "FC": 54,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "39",
@@ -349,7 +397,8 @@
       "sixtyPct": 30,
       "ninetyPct": 70,
       "FC": 16,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "40",
@@ -358,7 +407,8 @@
       "sixtyPct": 41,
       "ninetyPct": 37,
       "FC": 43,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "41",
@@ -367,7 +417,8 @@
       "sixtyPct": 24,
       "ninetyPct": 62,
       "FC": 73,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "42",
@@ -376,7 +427,8 @@
       "sixtyPct": 39,
       "ninetyPct": 79,
       "FC": 65,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "43",
@@ -385,7 +437,8 @@
       "sixtyPct": 94,
       "ninetyPct": 47,
       "FC": 73,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "44",
@@ -394,7 +447,8 @@
       "sixtyPct": 74,
       "ninetyPct": 39,
       "FC": 86,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "45",
@@ -403,7 +457,8 @@
       "sixtyPct": 61,
       "ninetyPct": 94,
       "FC": 44,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "46",
@@ -412,7 +467,8 @@
       "sixtyPct": 22,
       "ninetyPct": 85,
       "FC": 58,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "47",
@@ -421,7 +477,8 @@
       "sixtyPct": 7,
       "ninetyPct": 27,
       "FC": 92,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "48",
@@ -430,7 +487,8 @@
       "sixtyPct": 1,
       "ninetyPct": 51,
       "FC": 35,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "49",
@@ -439,7 +497,8 @@
       "sixtyPct": 54,
       "ninetyPct": 96,
       "FC": 34,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     },
     {
       "id": "50",
@@ -448,7 +507,8 @@
       "sixtyPct": 86,
       "ninetyPct": 17,
       "FC": 3,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4", "B13FRR6", "B13FRR5"]
     }
   ],
   "myPortfolios": [
@@ -459,7 +519,8 @@
       "sixtyPct": 96,
       "ninetyPct": 37,
       "FC": 27,
-      "portfolioReport": false
+      "portfolioReport": false,
+      "portfolioDeals": ["B13FRR1", "B13FRR4"]
     },
     {
       "id": "2",
@@ -469,6 +530,7 @@
       "ninetyPct": 43,
       "FC": 47,
       "portfolioReport": false
+      
     },
     {
       "id": "3",
@@ -478,6 +540,7 @@
       "ninetyPct": 83,
       "FC": 25,
       "portfolioReport": false
+      
     },
     {
       "id": "4",
@@ -487,6 +550,7 @@
       "ninetyPct": 3,
       "FC": 91,
       "portfolioReport": false
+      
     },
     {
       "id": "5",
@@ -496,6 +560,7 @@
       "ninetyPct": 47,
       "FC": 82,
       "portfolioReport": false
+      
     },
     {
       "id": "6",
@@ -505,6 +570,7 @@
       "ninetyPct": 91,
       "FC": 61,
       "portfolioReport": false
+      
     },
     {
       "id": "7",
@@ -514,6 +580,7 @@
       "ninetyPct": 89,
       "FC": 94,
       "portfolioReport": false
+      
     },
     {
       "id": "8",
@@ -523,6 +590,7 @@
       "ninetyPct": 87,
       "FC": 36,
       "portfolioReport": false
+      
     },
     {
       "id": "9",
@@ -532,6 +600,7 @@
       "ninetyPct": 30,
       "FC": 55,
       "portfolioReport": false
+      
     },
     {
       "id": "10",
@@ -541,6 +610,7 @@
       "ninetyPct": 63,
       "FC": 79,
       "portfolioReport": false
+      
     },
     {
       "id": "11",
@@ -550,6 +620,7 @@
       "ninetyPct": 86,
       "FC": 2,
       "portfolioReport": false
+      
     },
     {
       "id": "12",
@@ -559,6 +630,7 @@
       "ninetyPct": 92,
       "FC": 30,
       "portfolioReport": false
+      
     },
     {
       "id": "13",
@@ -568,6 +640,7 @@
       "ninetyPct": 88,
       "FC": 72,
       "portfolioReport": false
+      
     },
     {
       "id": "14",
@@ -577,6 +650,7 @@
       "ninetyPct": 91,
       "FC": 19,
       "portfolioReport": false
+      
     },
     {
       "id": "15",
@@ -586,6 +660,7 @@
       "ninetyPct": 9,
       "FC": 10,
       "portfolioReport": false
+      
     },
     {
       "id": "16",
@@ -595,6 +670,7 @@
       "ninetyPct": 88,
       "FC": 38,
       "portfolioReport": false
+      
     },
     {
       "id": "17",
@@ -604,6 +680,7 @@
       "ninetyPct": 94,
       "FC": 15,
       "portfolioReport": false
+      
     },
     {
       "id": "18",
@@ -613,6 +690,7 @@
       "ninetyPct": 59,
       "FC": 21,
       "portfolioReport": false
+      
     },
     {
       "id": "19",
@@ -622,6 +700,7 @@
       "ninetyPct": 14,
       "FC": 65,
       "portfolioReport": false
+      
     },
     {
       "id": "20",
@@ -631,6 +710,7 @@
       "ninetyPct": 35,
       "FC": 92,
       "portfolioReport": false
+      
     },
     {
       "id": "21",
@@ -640,6 +720,7 @@
       "ninetyPct": 1,
       "FC": 47,
       "portfolioReport": false
+      
     },
     {
       "id": "22",
@@ -649,6 +730,7 @@
       "ninetyPct": 34,
       "FC": 42,
       "portfolioReport": false
+      
     },
     {
       "id": "23",
@@ -658,6 +740,7 @@
       "ninetyPct": 18,
       "FC": 37,
       "portfolioReport": false
+      
     },
     {
       "id": "24",
@@ -667,6 +750,7 @@
       "ninetyPct": 12,
       "FC": 31,
       "portfolioReport": false
+      
     },
     {
       "id": "25",
@@ -676,6 +760,7 @@
       "ninetyPct": 84,
       "FC": 14,
       "portfolioReport": false
+      
     },
     {
       "id": "26",
@@ -685,6 +770,7 @@
       "ninetyPct": 46,
       "FC": 72,
       "portfolioReport": false
+      
     },
     {
       "id": "27",
@@ -694,6 +780,7 @@
       "ninetyPct": 40,
       "FC": 43,
       "portfolioReport": false
+      
     },
     {
       "id": "28",
@@ -703,6 +790,7 @@
       "ninetyPct": 90,
       "FC": 89,
       "portfolioReport": false
+      
     },
     {
       "id": "29",
@@ -712,6 +800,7 @@
       "ninetyPct": 29,
       "FC": 16,
       "portfolioReport": false
+      
     },
     {
       "id": "30",
@@ -721,6 +810,7 @@
       "ninetyPct": 60,
       "FC": 78,
       "portfolioReport": false
+      
     },
     {
       "id": "31",
@@ -730,6 +820,7 @@
       "ninetyPct": 86,
       "FC": 27,
       "portfolioReport": false
+      
     },
     {
       "id": "32",
@@ -739,6 +830,7 @@
       "ninetyPct": 75,
       "FC": 44,
       "portfolioReport": false
+      
     },
     {
       "id": "33",
@@ -748,6 +840,7 @@
       "ninetyPct": 68,
       "FC": 16,
       "portfolioReport": false
+      
     },
     {
       "id": "34",
@@ -757,6 +850,7 @@
       "ninetyPct": 17,
       "FC": 43,
       "portfolioReport": false
+      
     },
     {
       "id": "35",
@@ -766,6 +860,7 @@
       "ninetyPct": 14,
       "FC": 50,
       "portfolioReport": false
+      
     },
     {
       "id": "36",
@@ -775,6 +870,7 @@
       "ninetyPct": 8,
       "FC": 64,
       "portfolioReport": false
+      
     },
     {
       "id": "37",
@@ -784,6 +880,7 @@
       "ninetyPct": 7,
       "FC": 72,
       "portfolioReport": false
+      
     },
     {
       "id": "38",
@@ -793,6 +890,7 @@
       "ninetyPct": 69,
       "FC": 91,
       "portfolioReport": false
+      
     },
     {
       "id": "39",
@@ -802,6 +900,7 @@
       "ninetyPct": 92,
       "FC": 36,
       "portfolioReport": false
+      
     },
     {
       "id": "40",
@@ -811,6 +910,7 @@
       "ninetyPct": 88,
       "FC": 83,
       "portfolioReport": false
+      
     },
     {
       "id": "41",
@@ -820,6 +920,7 @@
       "ninetyPct": 1,
       "FC": 97,
       "portfolioReport": false
+      
     },
     {
       "id": "42",
@@ -829,6 +930,7 @@
       "ninetyPct": 88,
       "FC": 41,
       "portfolioReport": false
+      
     },
     {
       "id": "43",
@@ -838,6 +940,7 @@
       "ninetyPct": 33,
       "FC": 61,
       "portfolioReport": false
+      
     },
     {
       "id": "44",
@@ -847,6 +950,7 @@
       "ninetyPct": 24,
       "FC": 98,
       "portfolioReport": false
+      
     },
     {
       "id": "45",
@@ -856,6 +960,7 @@
       "ninetyPct": 7,
       "FC": 47,
       "portfolioReport": false
+      
     },
     {
       "id": "46",
@@ -865,6 +970,7 @@
       "ninetyPct": 91,
       "FC": 30,
       "portfolioReport": false
+      
     },
     {
       "id": "47",
@@ -874,6 +980,7 @@
       "ninetyPct": 79,
       "FC": 8,
       "portfolioReport": false
+      
     },
     {
       "id": "48",
@@ -892,6 +999,7 @@
       "ninetyPct": 3,
       "FC": 74,
       "portfolioReport": false
+      
     },
     {
       "id": "50",
@@ -901,6 +1009,7 @@
       "ninetyPct": 7,
       "FC": 57,
       "portfolioReport": false
+      
     }
   ]
 }
