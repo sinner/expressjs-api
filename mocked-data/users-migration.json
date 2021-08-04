@@ -20,7 +20,7 @@
         "firstName": "Veronica",
         "lastName": "Atkins",
         "migrated": false,
-        "migratedDate": "Sun Aug 16 2020 20:43:56 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "19c76b1d-17dc-40d6-8ff8-2e5905d12d47",
@@ -90,7 +90,7 @@
         "firstName": "Kitty",
         "lastName": "Randolph",
         "migrated": false,
-        "migratedDate": "Thu Sep 10 2020 23:48:06 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "24e0f864-cc19-40cc-9344-74d5d3a5edfd",
@@ -100,7 +100,7 @@
         "firstName": "Georgia",
         "lastName": "Guerrero",
         "migrated": false,
-        "migratedDate": "Wed May 19 2021 20:11:49 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "2ca9050d-3a88-41b5-8f58-1651dc888dbb",
@@ -140,7 +140,7 @@
         "firstName": "Lea",
         "lastName": "Bender",
         "migrated": false,
-        "migratedDate": "Wed Jan 06 2021 16:54:32 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "a4fa8bd7-1fd1-42ac-9ca8-43f53df4d486",
@@ -150,7 +150,7 @@
         "firstName": "Sara",
         "lastName": "Banks",
         "migrated": false,
-        "migratedDate": "Fri May 21 2021 16:07:46 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "4bc8a9d7-e6a4-40ec-a7f8-c2c07e304a7d",
@@ -200,7 +200,7 @@
         "firstName": "Mendoza",
         "lastName": "Drake",
         "migrated": false,
-        "migratedDate": "Wed Jan 13 2021 14:35:32 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "4320af67-b8ec-461c-b219-86e07598867c",
@@ -210,7 +210,7 @@
         "firstName": "Benita",
         "lastName": "Summers",
         "migrated": false,
-        "migratedDate": "Fri Jan 01 2021 10:03:52 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "45b516f6-7610-42fb-99cd-f7abd173799c",
@@ -220,7 +220,7 @@
         "firstName": "Stacey",
         "lastName": "Fowler",
         "migrated": false,
-        "migratedDate": "Sun Mar 14 2021 01:24:37 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "e5ad3a33-b3b5-4425-ad08-6fe0a2b6ff1e",
@@ -250,7 +250,7 @@
         "firstName": "Valeria",
         "lastName": "Cross",
         "migrated": false,
-        "migratedDate": "Wed Dec 16 2020 01:32:44 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "8f434fad-2d58-4cfa-93eb-d433427a2e7b",
@@ -260,7 +260,7 @@
         "firstName": "Brandy",
         "lastName": "Love",
         "migrated": false,
-        "migratedDate": "Wed Jun 30 2021 11:52:56 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "de60f139-d40a-4b68-bc41-185c7086ccd7",
@@ -310,7 +310,7 @@
         "firstName": "Deirdre",
         "lastName": "Moody",
         "migrated": false,
-        "migratedDate": "Mon Jul 20 2020 02:38:11 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "9223bf86-4964-4494-bf03-3176801b189a",
@@ -320,7 +320,7 @@
         "firstName": "Madge",
         "lastName": "Battle",
         "migrated": false,
-        "migratedDate": "Sun Oct 18 2020 23:38:38 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "f67e7807-64b5-405b-ba74-578eca1dfa43",
@@ -350,7 +350,7 @@
         "firstName": "Harmon",
         "lastName": "Hoover",
         "migrated": false,
-        "migratedDate": "Sat Dec 26 2020 08:39:28 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "e5f98ce0-2c70-45e5-b172-d8ab074842f8",
@@ -370,7 +370,7 @@
         "firstName": "Wall",
         "lastName": "Roberson",
         "migrated": false,
-        "migratedDate": "Fri Nov 06 2020 09:30:42 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "fb4f4659-7923-4692-988f-5f8be3f3580a",
@@ -380,7 +380,7 @@
         "firstName": "Battle",
         "lastName": "Vang",
         "migrated": false,
-        "migratedDate": "Tue Nov 24 2020 22:21:57 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "41307d0e-a489-42fa-9a6a-de1c16c63c41",
@@ -420,7 +420,7 @@
         "firstName": "Darla",
         "lastName": "Stephens",
         "migrated": false,
-        "migratedDate": "Sun Aug 02 2020 22:43:00 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "f5ac7357-779c-4b29-a20b-ce6564d6bba1",
@@ -430,7 +430,7 @@
         "firstName": "Elba",
         "lastName": "Mathews",
         "migrated": false,
-        "migratedDate": "Sun Dec 13 2020 11:39:27 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "91b17163-bef2-4e8d-8932-5e3da95295fe",
@@ -440,7 +440,7 @@
         "firstName": "Andrea",
         "lastName": "Hartman",
         "migrated": false,
-        "migratedDate": "Sat Jan 16 2021 08:20:47 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "d1745a47-9428-4654-85e0-83c7e079cf34",
@@ -450,7 +450,7 @@
         "firstName": "Cherry",
         "lastName": "Knight",
         "migrated": false,
-        "migratedDate": "Wed Apr 28 2021 15:43:11 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "adec5574-95b0-4a5f-9534-7fce6bf626f9",
@@ -480,7 +480,7 @@
         "firstName": "Gentry",
         "lastName": "Riggs",
         "migrated": false,
-        "migratedDate": "Sun Nov 22 2020 12:11:38 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "1e409947-7411-4002-a85b-e93ae707f177",
@@ -500,7 +500,7 @@
         "firstName": "Elsa",
         "lastName": "Cortez",
         "migrated": false,
-        "migratedDate": "Fri Jan 15 2021 13:49:00 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "604c8a6a-d231-4065-8c50-d42189656f67",
@@ -510,7 +510,7 @@
         "firstName": "Earline",
         "lastName": "Frye",
         "migrated": false,
-        "migratedDate": "Tue Sep 15 2020 15:18:00 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "e80e9533-93bc-4296-973b-5ef8397b96de",
@@ -530,7 +530,7 @@
         "firstName": "Robbie",
         "lastName": "Osborne",
         "migrated": false,
-        "migratedDate": "Sun Feb 28 2021 23:11:44 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "3f2b8a31-b261-4eff-9d00-20e1ecaad52c",
@@ -560,7 +560,7 @@
         "firstName": "Shana",
         "lastName": "Chapman",
         "migrated": false,
-        "migratedDate": "Mon May 25 2020 12:03:08 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "1b3155c2-112e-4e65-89f0-6cb50d530dcd",
@@ -570,7 +570,7 @@
         "firstName": "Collier",
         "lastName": "Gould",
         "migrated": false,
-        "migratedDate": "Mon Jun 21 2021 05:56:59 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "aaa37794-1724-4575-837b-b950a1edeff0",
@@ -590,7 +590,7 @@
         "firstName": "Kent",
         "lastName": "Cabrera",
         "migrated": false,
-        "migratedDate": "Tue May 05 2020 09:20:28 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "8fa8f891-31ee-4127-95d4-890423b7477e",
@@ -600,7 +600,7 @@
         "firstName": "Rose",
         "lastName": "Rivera",
         "migrated": false,
-        "migratedDate": "Sat Mar 14 2020 02:06:19 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "83a18097-9b4c-4e9f-a035-49084532fcd5",
@@ -650,7 +650,7 @@
         "firstName": "Jasmine",
         "lastName": "Weber",
         "migrated": false,
-        "migratedDate": "Mon Oct 12 2020 05:27:12 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "cd218c00-fce7-4a03-9d94-a6627930a854",
@@ -690,7 +690,7 @@
         "firstName": "Wells",
         "lastName": "Kim",
         "migrated": false,
-        "migratedDate": "Fri Jul 09 2021 15:23:52 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "c4490d96-96d2-43a7-997a-1d94144bd190",
@@ -730,7 +730,7 @@
         "firstName": "Edwina",
         "lastName": "Allison",
         "migrated": false,
-        "migratedDate": "Wed Feb 19 2020 08:01:03 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       },
       {
         "id": "af749e91-971e-454d-8a41-3ab4ed4f0c4a",
@@ -750,7 +750,7 @@
         "firstName": "Burt",
         "lastName": "Moss",
         "migrated": false,
-        "migratedDate": "Sat May 09 2020 17:29:10 GMT-0500 (Colombia Standard Time)"
+        "migratedDate": null
       }
     ]
   }
