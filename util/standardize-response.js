@@ -11,6 +11,7 @@ export default (payload = {}) => {
     constructor(rawResponse) {
       this.rawResponse = rawResponse;
       this.data = rawResponse.data || null;
+      this.result = rawResponse.result || rawResponse.data || undefined;
       this.status = rawResponse.status || {
         statusCode: 500,
         success: false,
