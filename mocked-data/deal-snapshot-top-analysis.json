@@ -163,7 +163,7 @@
       "analyst_cmnt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit odio, cursus a bibendum quis, porttitor et elit. Mauris facilisis fermentum arcu"
     }
   ],
-  "tenantExpiration": [
+  "top10_tenant_expirations": [
     {
       "loan_name": "Innovation Park",
       "pros_id": 0,
