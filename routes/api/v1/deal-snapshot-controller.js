@@ -7,7 +7,11 @@ import { authorizationHeader } from '../../middleware/authorization-headers';
 
 import dealSnapshotSummaryResponse from '../../../mocked-data/deal-snapshot--deal-summary.json';
 import dealSnapshotClassStructureResponse from '../../../mocked-data/deal-snapshot-class-structure.json';
+<<<<<<< HEAD
 import dealSnapshotTopAnalysisResponse from '../../../mocked-data/deal-snapshot-top-analysis.json';
+=======
+import dealSnapshotStratsResponse from '../../../mocked-data/deal-snapshot-strats.json';
+>>>>>>> d94cd56bcedfcdea8792ef27d0893220c3463cc8
 
 import dealSnapshotResponse from '../../../mocked-data/dealSnapshot.json';
 
@@ -24,6 +28,10 @@ export const getTopAnalysis = async (req, res) => {
 
 export const getClassStructure= async (req, res) => {
   res.status(200).json(successResponse(dealSnapshotClassStructureResponse));
+};
+
+export const getStrats= async (req, res) => {
+  res.status(200).json(successResponse(dealSnapshotStratsResponse));
 };
 
 export const getDealSnapshotInfo = async (req, res) => {
@@ -50,6 +58,8 @@ controllerRouter.get('/:deal/class-structure', getClassStructure);
 
 /** @path /deal-snapshot/:deal/top-analysis */
 controllerRouter.get('/:deal/top-analysis', getTopAnalysis);
+/** @path /deal-snapshot/:deal/strats */
+controllerRouter.get('/:deal/strats', getStrats);
 
 // create and export default register controller function
 export default registerControllerGenerator(controllerRouter);

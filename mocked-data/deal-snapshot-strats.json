@@ -1,0 +1,158 @@
+{
+  "additionalDebtSummary": [
+    {
+      "loan_name": "CityScape - East Office/Retail",
+      "pros_id": 10,
+      "trust_debt": 93529672,
+      "pari_passu_debt": 93529672,
+      "deals_with_pari_passu_debt": "CTG14G19",
+      "subordinate_debt": 0,
+      "mezzanine_debt": 25000000,
+      "whole_loan_balance": 198029894
+    },
+    {
+      "loan_name": "Gateway Commerce Center",
+      "pros_id": 10,
+      "trust_debt": 93529672,
+      "pari_passu_debt": 79500222,
+      "deals_with_pari_passu_debt": "CTG14G19",
+      "subordinate_debt": 0,
+      "mezzanine_debt": 25000000,
+      "whole_loan_balance": 198029894
+    },
+    {
+      "loan_name": "CityScape - East Office/Retail",
+      "pros_id": 10,
+      "trust_debt": 93529672,
+      "pari_passu_debt": 79500222,
+      "deals_with_pari_passu_debt": "CTG14G19",
+      "subordinate_debt": 0,
+      "mezzanine_debt": 25000000,
+      "whole_loan_balance": 198029894
+    },
+    {
+      "loan_name": "CityScape - East Office/Retail",
+      "pros_id": 10,
+      "trust_debt": 93529672,
+      "pari_passu_debt": 79500222,
+      "deals_with_pari_passu_debt": "CTG14G19",
+      "subordinate_debt": 0,
+      "mezzanine_debt": 25000000,
+      "whole_loan_balance": 198029894
+    }
+  ],
+  "singleTenantExposureSummary": [
+    {
+      "asset_name": "246 Fifth Avenue",
+      "pros_id": 10,
+      "property_name": "246 Fifth Avenue",
+      "city": "Indianapolis",
+      "state": "IN",
+      "property_type": "Industrial",
+      "current_balance": 23000000,
+      "percentage_deal": 2.61,
+      "largest_tenant": "Gotham Hall LLC",
+      "percentage_gla": 100,
+      "lease_expiration": "12/06/2023",
+      "maturity_date": "12/06/2023"
+    },
+    {
+      "asset_name": "246 Fifth Avenue",
+      "pros_id": 10,
+      "property_name": "246 Fifth Avenue",
+      "city": "Indianapolis",
+      "state": "IN",
+      "property_type": "Industrial",
+      "current_balance": 23000000,
+      "percentage_deal": 2.61,
+      "largest_tenant": "Gotham Hall LLC",
+      "percentage_gla": 100,
+      "lease_expiration": "12/06/2023",
+      "maturity_date": "12/06/2023"
+    },
+    {
+      "asset_name": "Whitehall Tech Center 4 & 5",
+      "pros_id": 10,
+      "property_name": "246 Fifth Avenue",
+      "city": "Indianapolis",
+      "state": "IN",
+      "property_type": "Industrial",
+      "current_balance": 23000000,
+      "percentage_deal": 2.61,
+      "largest_tenant": "Gotham Hall LLC",
+      "percentage_gla": 100,
+      "lease_expiration": "12/06/2023",
+      "maturity_date": "12/06/2023"
+    },
+    {
+      "asset_name": "Whitehall Tech Center 4 & 5",
+      "pros_id": 10,
+      "property_name": "246 Fifth Avenue",
+      "city": "Indianapolis",
+      "state": "IN",
+      "property_type": "Industrial",
+      "current_balance": 23000000,
+      "percentage_deal": 2.61,
+      "largest_tenant": "Gotham Hall LLC",
+      "percentage_gla": 100,
+      "lease_expiration": "12/06/2023",
+      "maturity_date": "12/06/2023"
+    }
+  ],
+  "twelve_month_maturity_risk_summary": [
+    {
+      "asset_name": "246 Fifth Avenue",
+      "pros_id": 10,
+      "property_type": "Hotel",
+      "city": "Indianapolis",
+      "state": "IN",
+      "current_balance": 23000000,
+      "percentage_deal": 2.61,
+      "mr_dscr": -0.26,
+      "mstar_value": 7380000,
+      "est_loss": 9589309,
+      "mstar_ltv": 1048,
+      "maturity_date": "12/06/2023",
+      "status": "REO",
+      "wl_ss": "SS",
+      "hrl_score": 3
+    },
+    {
+      "asset_name": "246 Fifth Avenue",
+      "pros_id": 10,
+      "property_type": "Hotel",
+      "city": "Indianapolis",
+      "state": "IN",
+      "current_balance": 23000000,
+      "percentage_deal": 2.61,
+      "mr_dscr": -0.26,
+      "mstar_value": 7380000,
+      "est_loss": 9589309,
+      "mstar_ltv": 1048,
+      "maturity_date": "12/06/2023",
+      "status": "REO",
+      "wl_ss": "SS",
+      "hrl_score": 3
+    }
+  ],
+  "historicalLossesFromLoanLiquidations": [
+    {
+      "asset_name": "Sullivan Apartments",
+      "pros_id": 10,
+      "property_type": "MF",
+      "date_loss": "01/06/2019",
+      "balance_before_loss": 9589309,
+      "realized_loss": 9589309,
+      "loss_severity": 48.03
+    },
+    {
+      "asset_name": "Sullivan Apartments",
+      "pros_id": 10,
+      "property_type": "MF",
+      "date_loss": "01/06/2019",
+      "balance_before_loss": 9589309,
+      "realized_loss": 9589309,
+      "loss_severity": 48.03
+    }
+  ]
+}
