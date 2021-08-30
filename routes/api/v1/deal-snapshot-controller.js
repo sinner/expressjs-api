@@ -7,11 +7,8 @@ import { authorizationHeader } from '../../middleware/authorization-headers';
 
 import dealSnapshotSummaryResponse from '../../../mocked-data/deal-snapshot--deal-summary.json';
 import dealSnapshotClassStructureResponse from '../../../mocked-data/deal-snapshot-class-structure.json';
-<<<<<<< HEAD
 import dealSnapshotTopAnalysisResponse from '../../../mocked-data/deal-snapshot-top-analysis.json';
-=======
 import dealSnapshotStratsResponse from '../../../mocked-data/deal-snapshot-strats.json';
->>>>>>> d94cd56bcedfcdea8792ef27d0893220c3463cc8
 
 import dealSnapshotResponse from '../../../mocked-data/dealSnapshot.json';
 
