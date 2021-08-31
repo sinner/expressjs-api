@@ -99,7 +99,7 @@
       "maturity_date": "12/06/2023"
     }
   ],
-  "twelveMonthMaturityRisSummary": [
+  "twelveMonthMaturityRiskSummary": [
     {
       "asset_name": "246 Fifth Avenue",
       "pros_id": 10,
