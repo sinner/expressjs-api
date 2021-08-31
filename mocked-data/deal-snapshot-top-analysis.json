@@ -2,7 +2,7 @@
   "top10_morningstar_loan_valuation": [
     {
       "loan_name": "Innovation Park",
-      "pros_id": 1000,
+      "pros_id": 10000,
       "current_balance": 1669901600,
       "total_exposure": 16699016,
       "cap_rate": 16699016,
@@ -20,7 +20,7 @@
     },
     {
       "loan_name": "DSCRs above 1.25",
-      "pros_id": 1000,
+      "pros_id": 10000,
       "current_balance": 1669901600,
       "total_exposure": 16699016,
       "cap_rate": 16699016,
@@ -38,7 +38,7 @@
     },
     {
       "loan_name": "Innovation Park",
-      "pros_id": 1000,
+      "pros_id": 10000,
       "current_balance": 1669901600,
       "total_exposure": 16699016,
       "cap_rate": 16699016,
@@ -56,7 +56,7 @@
     },
     {
       "loan_name": "DSCRs above 1.25",
-      "pros_id": 1000,
+      "pros_id": 10000,
       "current_balance": 1669901600,
       "total_exposure": 16699016,
       "cap_rate": 16699016,
@@ -74,7 +74,7 @@
     },
     {
       "loan_name": "Innovation Park",
-      "pros_id": 1000,
+      "pros_id": 10000,
       "current_balance": 1669901600,
       "total_exposure": 16699016,
       "cap_rate": 16699016,
@@ -92,7 +92,7 @@
     },
     {
       "loan_name": "DSCRs above 1.25",
-      "pros_id": 1000,
+      "pros_id": 10000,
       "current_balance": 1669901600,
       "total_exposure": 16699016,
       "cap_rate": 16699016,
@@ -110,7 +110,7 @@
     },
     {
       "loan_name": "Innovation Park",
-      "pros_id": 1000,
+      "pros_id": 10000,
       "current_balance": 59677911000,
       "total_exposure": 16699016,
       "cap_rate": 16699016,
@@ -128,7 +128,7 @@
     },
     {
       "loan_name": "DSCRs above 1.25",
-      "pros_id": 1000,
+      "pros_id": 10000,
       "current_balance": 9901600,
       "total_exposure": 16699016,
       "cap_rate": 16699016,
@@ -146,7 +146,7 @@
     },
     {
       "loan_name": "Innovation Park",
-      "pros_id": 1000,
+      "pros_id": 10000,
       "current_balance": 0,
       "total_exposure": 16699016,
       "cap_rate": 16699016,
@@ -165,175 +165,175 @@
   ],
   "top10_tenant_expirations": [
     {
-      "loan_name": "Innovation Park",
-      "pros_id": 1000,
-      "property_name": "string",
-      "tenant_name": "string",
-      "sf": "50",
+      "loan_name": "12555 & 12655 Jefferson",
+      "pros_id": 11000,
+      "property_name": "501 Independence Parkway",
+      "tenant_name": "VA Peninsula Chamber of Conference",
+      "sf": "152633",
       "lease_Expiration": "2021-08-30T20:51:24.173Z",
-      "percent_gpa": 0
+      "percent_gpa": 16.58
+    },
+    {
+      "loan_name": "12555 & 12655 Jefferson",
+      "pros_id": 10000,
+      "property_name": "501 Independence Parkway",
+      "tenant_name": "VA Peninsula Chamber of Conference",
+      "sf": "152633",
+      "lease_Expiration": "2021-08-30T20:51:24.173Z",
+      "percent_gpa": 16.58
+    },
+    {
+      "loan_name": "12555 & 12655 Jefferson",
+      "pros_id": 11000,
+      "property_name": "501 Independence Parkway",
+      "tenant_name": "VA Peninsula Chamber of Conference",
+      "sf": "152633",
+      "lease_Expiration": "2021-08-30T20:51:24.173Z",
+      "percent_gpa": 16.58
+    },
+    {
+      "loan_name": "12555 & 12655 Jefferson",
+      "pros_id": 10000,
+      "property_name": "501 Independence Parkway",
+      "tenant_name": "VA Peninsula Chamber of Conference",
+      "sf": "652633",
+      "lease_Expiration": "2021-08-30T20:51:24.173Z",
+      "percent_gpa": 16.58
+    },
+    {
+      "loan_name": "12555 & 12655 Jefferson",
+      "pros_id": 11000,
+      "property_name": "501 Independence Parkway",
+      "tenant_name": "VA Peninsula Chamber of Conference",
+      "sf": "152633",
+      "lease_Expiration": "2021-08-30T20:51:24.173Z",
+      "percent_gpa": 16.58
+    },
+    {
+      "loan_name": "12555 & 12655 Jefferson",
+      "pros_id": 10000,
+      "property_name": "501 Independence Parkway",
+      "tenant_name": "VA Peninsula Chamber of Conference",
+      "sf": "152633",
+      "lease_Expiration": "2021-08-30T20:51:24.173Z",
+      "percent_gpa": 16.58
+    },
+    {
+      "loan_name": "12555 & 12655 Jefferson",
+      "pros_id": 11000,
+      "property_name": "401 Independence Parkway",
+      "tenant_name": "McLean Mortgage Corporation",
+      "sf": "252633",
+      "lease_Expiration": "2021-08-30T20:51:24.173Z",
+      "percent_gpa": 16.58
     },
     {
       "loan_name": "Innovation Park",
-      "pros_id": 1000,
-      "property_name": "string",
-      "tenant_name": "string",
-      "sf": "string",
+      "pros_id": 10000,
+      "property_name": "501 Independence Parkway",
+      "tenant_name": "McLean Mortgage Corporation",
+      "sf": "152633",
       "lease_Expiration": "2021-08-30T20:51:24.173Z",
-      "percent_gpa": 0
+      "percent_gpa": 6.58
     },
     {
       "loan_name": "Innovation Park",
-      "pros_id": 1000,
-      "property_name": "string",
-      "tenant_name": "string",
-      "sf": "string",
+      "pros_id": 10000,
+      "property_name": "700 Independence Parkway",
+      "tenant_name": "McLean Mortgage Corporation",
+      "sf": "952633",
       "lease_Expiration": "2021-08-30T20:51:24.173Z",
-      "percent_gpa": 0
-    },
-    {
-      "loan_name": "Innovation Park",
-      "pros_id": 1000,
-      "property_name": "string",
-      "tenant_name": "string",
-      "sf": "string",
-      "lease_Expiration": "2021-08-30T20:51:24.173Z",
-      "percent_gpa": 0
-    },
-    {
-      "loan_name": "Innovation Park",
-      "pros_id": 1000,
-      "property_name": "string",
-      "tenant_name": "string",
-      "sf": "string",
-      "lease_Expiration": "2021-08-30T20:51:24.173Z",
-      "percent_gpa": 0
-    },
-    {
-      "loan_name": "Innovation Park",
-      "pros_id": 1000,
-      "property_name": "string",
-      "tenant_name": "string",
-      "sf": "string",
-      "lease_Expiration": "2021-08-30T20:51:24.173Z",
-      "percent_gpa": 0
-    },
-    {
-      "loan_name": "Innovation Park",
-      "pros_id": 1000,
-      "property_name": "string",
-      "tenant_name": "string",
-      "sf": "string",
-      "lease_Expiration": "2021-08-30T20:51:24.173Z",
-      "percent_gpa": 0
-    },
-    {
-      "loan_name": "Innovation Park",
-      "pros_id": 1000,
-      "property_name": "string",
-      "tenant_name": "string",
-      "sf": "string",
-      "lease_Expiration": "2021-08-30T20:51:24.173Z",
-      "percent_gpa": 0
-    },
-    {
-      "loan_name": "Innovation Park",
-      "pros_id": 1000,
-      "property_name": "string",
-      "tenant_name": "string",
-      "sf": "string",
-      "lease_Expiration": "2021-08-30T20:51:24.173Z",
-      "percent_gpa": 0
+      "percent_gpa": 16.58
     },
     {
       "loan_name": "DSCRs above 1.25",
-      "pros_id": 1000,
-      "property_name": "string",
-      "tenant_name": "string",
-      "sf": "string",
+      "pros_id": 10000,
+      "property_name": "501 Independence Parkway",
+      "tenant_name": "McLean Mortgage Corporation",
+      "sf": "152633",
       "lease_Expiration": "2021-08-30T20:51:24.173Z",
-      "percent_gpa": 0
+      "percent_gpa": 15.58
     }
   ],
   "top10_aggregate_tenant_rollover": [
     {
-      "loan_name": "DSCRs above 1.25",
-      "pros_id": "string",
+      "loan_name": "Hampton Roads Office Portfolio",
+      "pros_id": 10000,
       "review_Date": "2021-08-30T20:51:24.173Z",
-      "percent_expiring1_12months": 0,
-      "percent_expiring13_24months": 0,
-      "percent_Expiring25_36months": 0,
-      "percent_expiring37_48months": 0,
+      "percent_expiring1_12months": 10.34,
+      "percent_expiring13_24months": 10.34,
+      "percent_Expiring25_36months": 10.34,
+      "percent_expiring37_48months": 10.34,
       "total": 0
     },
     {
-      "loan_name": "DSCRs above 1.25",
-      "pros_id": "string",
+      "loan_name": "Hampton Roads Office Portfolio",
+      "pros_id": 10000,
       "review_Date": "2021-08-30T20:51:24.173Z",
-      "percent_expiring1_12months": 0,
-      "percent_expiring13_24months": 0,
-      "percent_Expiring25_36months": 0,
-      "percent_expiring37_48months": 0,
+      "percent_expiring1_12months": 10.34,
+      "percent_expiring13_24months": 12.34,
+      "percent_Expiring25_36months": 10.34,
+      "percent_expiring37_48months": 10.34,
       "total": 0
     },
     {
-      "loan_name": "DSCRs above 1.25",
-      "pros_id": "string",
+      "loan_name": "12555 & 12655 Jefferson",
+      "pros_id": 10000,
       "review_Date": "2021-08-30T20:51:24.173Z",
-      "percent_expiring1_12months": 0,
-      "percent_expiring13_24months": 0,
-      "percent_Expiring25_36months": 0,
-      "percent_expiring37_48months": 0,
+      "percent_expiring1_12months": 10.34,
+      "percent_expiring13_24months": 10.32,
+      "percent_Expiring25_36months": 10.34,
+      "percent_expiring37_48months": 10.34,
       "total": 0
     },
     {
-      "loan_name": "DSCRs above 1.25",
-      "pros_id": "string",
+      "loan_name": "12555 & 12655 Jefferson",
+      "pros_id": 10000,
       "review_Date": "2021-08-30T20:51:24.173Z",
-      "percent_expiring1_12months": 0,
-      "percent_expiring13_24months": 0,
-      "percent_Expiring25_36months": 0,
-      "percent_expiring37_48months": 0,
+      "percent_expiring1_12months": 10.31,
+      "percent_expiring13_24months": 10.34,
+      "percent_Expiring25_36months": 10.33,
+      "percent_expiring37_48months": 10.34,
       "total": 0
     },
     {
-      "loan_name": "DSCRs above 1.25",
-      "pros_id": "string",
+      "loan_name": "12555 & 12655 Jefferson",
+      "pros_id": 10000,
       "review_Date": "2021-08-30T20:51:24.173Z",
-      "percent_expiring1_12months": 0,
-      "percent_expiring13_24months": 0,
-      "percent_Expiring25_36months": 0,
-      "percent_expiring37_48months": 0,
+      "percent_expiring1_12months": 10.34,
+      "percent_expiring13_24months": 10.34,
+      "percent_Expiring25_36months": 10.34,
+      "percent_expiring37_48months": 10.34,
       "total": 0
     },
     {
-      "loan_name": "DSCRs above 1.25",
-      "pros_id": "string",
+      "loan_name": "12555 & 12655 Jefferson",
+      "pros_id": 11000,
       "review_Date": "2021-08-30T20:51:24.173Z",
-      "percent_expiring1_12months": 0,
-      "percent_expiring13_24months": 0,
-      "percent_Expiring25_36months": 0,
-      "percent_expiring37_48months": 0,
+      "percent_expiring1_12months": 12.34,
+      "percent_expiring13_24months": 11.34,
+      "percent_Expiring25_36months": 10.34,
+      "percent_expiring37_48months": 10.34,
       "total": 0
     },
     {
-      "loan_name": "DSCRs above 1.25",
-      "pros_id": "string",
+      "loan_name": "12555 & 12655 Jefferson",
+      "pros_id": 10000,
       "review_Date": "2021-08-30T20:51:24.173Z",
-      "percent_expiring1_12months": 0,
-      "percent_expiring13_24months": 0,
-      "percent_Expiring25_36months": 0,
-      "percent_expiring37_48months": 0,
+      "percent_expiring1_12months": 10.34,
+      "percent_expiring13_24months": 10.34,
+      "percent_Expiring25_36months": 18.34,
+      "percent_expiring37_48months": 12.34,
       "total": 0
     },
     {
-      "loan_name": "DSCRs above 1.25",
-      "pros_id": "string",
+      "loan_name": "12555 & 2555 Jefferson",
+      "pros_id": 13000,
       "review_Date": "2021-08-30T20:51:24.173Z",
-      "percent_expiring1_12months": 0,
-      "percent_expiring13_24months": 0,
-      "percent_Expiring25_36months": 0,
-      "percent_expiring37_48months": 0,
+      "percent_expiring1_12months": 11.34,
+      "percent_expiring13_24months": 11.34,
+      "percent_Expiring25_36months": 11.34,
+      "percent_expiring37_48months": 11.34,
       "total": 0
     }
   ]
