@@ -1,5 +1,5 @@
 {
-  "additionalDebtSummary": [
+  "additional_debt_summary": [
     {
       "loan_name": "CityScape - East Office/Retail",
       "pros_id": 10,
@@ -41,7 +41,7 @@
       "whole_loan_balance": 198029894
     }
   ],
-  "singleTenantExposureSummary": [
+  "single_tenant_exposure_summary": [
     {
       "asset_name": "246 Fifth Avenue",
       "pros_id": 10,
@@ -99,7 +99,7 @@
       "maturity_date": "12/06/2023"
     }
   ],
-  "twelveMonthMaturityRiskSummary": [
+  "twelve_month_maturity_risk_summary": [
     {
       "asset_name": "246 Fifth Avenue",
       "pros_id": 10,
@@ -135,7 +135,7 @@
       "hrl_score": 3
     }
   ],
-  "historicalLossesFromLoanLiquidations": [
+  "historical_losses_from_loan_liquidations": [
     {
       "asset_name": "Sullivan Apartments",
       "pros_id": 10,
