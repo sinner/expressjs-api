@@ -20,4 +20,5 @@ controllerRouter.use(authorizationHeader);
 controllerRouter.get('/:deal/loan-data', getLoanData);
 
 // create and export default register controller function
-export default registerControllerGenerator(controllerRouter);
+const registerClientConfigController = registerControllerGenerator(controllerRouter);
+export default registerClientConfigController;
