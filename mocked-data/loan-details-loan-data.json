@@ -1,0 +1,138 @@
+{
+  "collateral_summary": [
+    {
+      "loan_name": "1211 Avenue of the Americas",
+      "propsectus_id": 1.000,
+      "servicer_loan_id": "304411001",
+      "property_type": "Office",
+      "current_balance": 1035000000,
+      "master_servicer": "WELLS FARGO",
+      "borrower": "1211 6th Avenue Property Owner, L.L.C",
+      "originator": "JPMorgan Chase",
+      "origination_date": "8/10/2015",
+      "maturity_date": "8/6/2025",
+      "seasoning": "67",
+      "year_built": "2001",
+      "year_renovated": "-",
+      "size": "2,18,076",
+      "value_size": 151,
+      "city": "Englewood",
+      "state": "Colorado",
+      "zip": "80110",
+      "msa": "Denver, CO",
+      "io_loan_status": "Amortizing",
+      "annual_debt_service": 1910964,
+      "payment_frequency": "M",
+      "gross_coupon": 5.60,
+      "net_coupon": 5.57,
+      "is_balloon": "Y",
+      "paid_off_date": "-",
+      "paid_thru_date": "01/07/19",
+      "call_protection_lockout": "-",
+      "call_protection_defeasance": "-",
+      "call_protection_yeil_maintained": "-",
+      "call_protection_prepaid_penalty": "-",
+      "call_protection_open": "-",
+      "top_ten_loan": "Y"
+    }
+  ],
+  "loan_summay": {
+      "original_upb":  99317061,
+      "current_upb": 88785434,
+      "original_percent_pool": 9.57,
+      "current_percent_pool": 11.89,
+      "original_amortization": 360,
+      "current_amortization":  275,
+      "original_ltv": 74.92,
+      "current_ltv": 74.92,
+      "original_factor": 0.9931,
+      "current_factor": 0.8879,
+      "original_terms_maturity": 120,
+      "current_terms_maturity": 30
+  },
+  "performance_summary": 
+    {
+      "loan_status": "R",
+      "historical_delinquency": "RRRR",
+      "current_appraised_value": 25300000,
+      "current_appraisal_date": "07/07/21",
+      "advances": 0,
+      "defeased": "N",
+      "resolution_date": "01/02/23",
+      "modification_code": "REO",
+      "prepay_amount": 0,
+      "prepay_penalty": 0,
+      "realized_loss": 6460092,
+      "appraisal_reduction": 14899874,
+      "most_recent_aser": 0,
+      "cum_aser": 0
+    },
+    "additional_debt": [
+      {
+        "trust_debt": 290761437,
+        "pari_passu_debt": 206507,
+        "deals_pari_passu_debt": "MSB14C15",
+        "subordinate_debt": 0,
+        "mezzanine_debt": 0,
+        "whole_loan_balance": 0
+      }
+    ],
+    "reserve_summary": [
+      {
+        "reserve_account_code": 1,
+        "reserve_account_type": "Replacement Reserve",
+        "balance_contribution": 30482,
+        "ending_balance": 97488
+      }
+    ],
+    "data_alerts": [
+      {
+        "deal_id": "LBUB06C6",
+        "asset_name": "Greenbrier Mall",
+        "pros_id": "6.000",
+        "prop_type": "Retail",
+        "current_balance": 70801076.33,
+        "percent_Deal": 21.094559,
+        "filter_name": "DSCR Improvement",
+        "filter_level": "Financials",
+        "update_date": "2017-10-18T06:12:45",
+        "previous_month": 2.06,
+        "current_month": 2.24,
+        "percent_change": 8.7378645,
+        "condition": ">=",
+        "trigger_value": "0.01",
+        "trend_x_label": "Time",
+        "trend_y_label": "DSCR",
+        "trend_x": "2021-02|2021-01|2020-12|2020-11|2020-10|2020-09|2020-08|2020-07|2020-06|2020-05|2020-04|2020-03",
+        "trend_y": "2.03000|2.03000|2.03000|2.03000|2.03000|2.03000|2.03000|2.03000|2.03000|2.03000|2.03000|2.03000",
+        "trend_x_array": [
+          "2021-02",
+          "2021-01",
+          "2020-12",
+          "2020-11",
+          "2020-10",
+          "2020-09",
+          "2020-08",
+          "2020-07",
+          "2020-06",
+          "2020-05",
+          "2020-04",
+          "2020-03"
+        ],
+        "trend_y_array": [
+          "2.03000",
+          "2.03000",
+          "2.03000",
+          "2.03000",
+          "2.03000",
+          "2.03000",
+          "2.03000",
+          "2.03000",
+          "2.03000",
+          "2.03000",
+          "2.03000",
+          "2.03000"
+        ]
+      }
+    ]
+}
