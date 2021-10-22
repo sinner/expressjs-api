@@ -36,7 +36,8 @@
       "top_ten_loan": "Y"
     }
   ],
-  "loan_summay": {
+  "loan_summay": [
+    {
       "original_upb":  99317061,
       "current_upb": 88785434,
       "original_percent_pool": 9.57,
@@ -49,8 +50,9 @@
       "current_factor": 0.8879,
       "original_terms_maturity": 120,
       "current_terms_maturity": 30
-  },
-  "performance_summary": 
+  }
+  ],
+  "performance_summary": [
     {
       "loan_status": "R",
       "historical_delinquency": "RRRR",
@@ -66,7 +68,8 @@
       "appraisal_reduction": 14899874,
       "most_recent_aser": 0,
       "cum_aser": 0
-    },
+    }
+  ],
     "additional_debt": [
       {
         "trust_debt": 290761437,
