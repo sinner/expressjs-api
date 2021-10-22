@@ -1,5 +1,5 @@
 {
-  "collateral_summary": [
+  "collateral_summary": 
     {
       "loan_name": "1211 Avenue of the Americas",
       "propsectus_id": 1.000,
@@ -34,9 +34,8 @@
       "call_protection_prepaid_penalty": "-",
       "call_protection_open": "-",
       "top_ten_loan": "Y"
-    }
-  ],
-  "loan_summary": [
+    },
+  "loan_summary": 
     {
       "original_upb":  99317061,
       "current_upb": 88785434,
@@ -50,9 +49,8 @@
       "current_factor": 0.8879,
       "original_terms_maturity": 120,
       "current_terms_maturity": 30
-  }
-  ],
-  "performance_summary": [
+  },
+  "performance_summary":
     {
       "loan_status": "R",
       "historical_delinquency": "RRRR",
@@ -68,8 +66,7 @@
       "appraisal_reduction": 14899874,
       "most_recent_aser": 0,
       "cum_aser": 0
-    }
-  ],
+    },
     "additional_debt": [
       {
         "trust_debt": 290761437,
