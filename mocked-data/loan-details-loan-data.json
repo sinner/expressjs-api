@@ -85,6 +85,12 @@
         "reserve_account_type": "Replacement Reserve",
         "balance_contribution": 30482,
         "ending_balance": 97488
+      },
+      {
+        "reserve_account_code": "Total",
+        "reserve_account_type": "",
+        "balance_contribution": 30482,
+        "ending_balance": 97488
       }
     ],
     "data_alerts": [
