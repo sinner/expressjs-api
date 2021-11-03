@@ -1,0 +1,52 @@
+{
+  "financial_summary": [
+    {
+      "fiscal_year": "Most Recent",
+      "date": "12/31/2020",
+      "revenue": 21726131,
+      "expenses": 10487384.31,
+      "noi": 11238746.69,
+      "ncf": 9770290,
+      "number_months": 12,
+      "dscr_noi": 2.03,
+      "dscr_ncf": 1.45,
+      "occ": 98.0
+    },
+    {
+      "fiscal_year": "Prec Yr",
+      "date": "12/31/2020",
+      "revenue": 21726131,
+      "expenses": 10487384.31,
+      "noi": 11238746.69,
+      "ncf": 9770290,
+      "number_months": 12,
+      "dscr_noi": 2.03,
+      "dscr_ncf": 1.45,
+      "occ": 98.0
+    },
+    {
+      "fiscal_year": "2nd Prec Yr",
+      "date": "12/31/2020",
+      "revenue": 21726131,
+      "expenses": 10487384.31,
+      "noi": 11238746.69,
+      "ncf": 9770290,
+      "number_months": 12,
+      "dscr_noi": 2.03,
+      "dscr_ncf": 1.45,
+      "occ": 98.0
+    },
+    {
+      "fiscal_year": "Prec Yr",
+      "date": "12/31/2020",
+      "revenue": 21726131,
+      "expenses": 10487384.31,
+      "noi": 11238746.69,
+      "ncf": 9770290,
+      "number_months": 12,
+      "dscr_noi": 2.03,
+      "dscr_ncf": 1.45,
+      "occ": 98.0
+    }
+  ]
+}
