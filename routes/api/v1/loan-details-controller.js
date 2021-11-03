@@ -22,7 +22,7 @@ controllerRouter.use(authorizationHeader);
 
 /** @path /loan-details/:deal/loan-data */
 controllerRouter.get('/:deal/loan-data', getLoanData);
-/** @path /loan-details/:deal/financials */
+/** @path /loan-details/:deal/financial */
 controllerRouter.get('/:deal/financial', getFinancial);
 
 // create and export default register controller function
