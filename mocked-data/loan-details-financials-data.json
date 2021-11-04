@@ -48,5 +48,19 @@
       "dscr_ncf": 1.45,
       "occ": 98.0
     }
+  ],
+  "property_name": [
+    {
+      "text": "City Place",
+      "value": "City Place"
+    },
+    {
+      "text": "City",
+      "value": "City"
+    },
+    {
+      "text": "Place",
+      "value": "Place"
+    }
   ]
 }
