@@ -18,12 +18,14 @@ export const getFinancial = async (req, res) => {
   res.status(200).json(successResponse(loanDetailsFinancialResponse));
 };
 
+
 controllerRouter.use(authorizationHeader);
 
 /** @path /loan-details/:deal/loan-data */
 controllerRouter.get('/:deal/loan-data', getLoanData);
 /** @path /loan-details/:loan/financial */
 controllerRouter.get('/:loan/financial', getFinancial);
+
 
 // create and export default register controller function
 export default registerControllerGenerator(controllerRouter);
