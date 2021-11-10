@@ -24,8 +24,8 @@
       "foreclosed": 0.92,
       "bankruptcy": 0.00,
       "reo": 0.93,
-      "cutOffDscr": 1.64,
-      "currentDscr": "0.92",
+      "cutOffDscr": 1.644444,
+      "currentDscr": 0.922559,
       "cutOffLtv": "96.48",
       "currentLtv": "63.82"
     },
