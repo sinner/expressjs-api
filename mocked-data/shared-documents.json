@@ -2,15 +2,18 @@
   "result": [
     {
       "id": "1",
-      "documentName": "AGENCY.doc"
+      "documentName": "AGENCY.doc",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
     },
     {
       "id": "2",
-      "documentName": "AGENCY.pdf"
+      "documentName": "AGENCY.pdf",
+      "description": "Lorem ipsum dolor sit amet sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
     },
     {
       "id": "3",
-      "documentName": "AGENCY-DOCUMENT-TEST.pdf"
+      "documentName": "AGENCY-DOCUMENT-TEST.pdf",
+      "description": "Lorem ipsum dolor sit amet sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
     }
   ]
 }
