@@ -21,6 +21,9 @@ export const getFinancial = async (req, res) => {
 export const getSharedDocuments = async (req, res) => {
   res.status(200).json(successResponse(sharedDocmentResponse));
 };
+export const uploadSharedDocuments = async (req, res) => {
+  res.status(200).json(successResponse(sharedDocmentResponse));
+};
 
 
 controllerRouter.use(authorizationHeader);
@@ -31,6 +34,8 @@ controllerRouter.get('/:deal/loan-data', getLoanData);
 controllerRouter.get('/:loan/financial', getFinancial);
 /** @path /loan-details/:loan/shared-documents */
 controllerRouter.get('/:loan/shared-documents', getSharedDocuments);
+/** @path /loan-details/:loan/shared-documents */
+controllerRouter.post('/:loan/shared-documents', uploadSharedDocuments);
 
 
 // create and export default register controller function
