@@ -1,0 +1,16 @@
+{
+  "sharedDocuments": [
+    {
+      "id": "1",
+      "documentName": "AGENCY.doc"
+    },
+    {
+      "id": "2",
+      "documentName": "AGENCY.pdf"
+    },
+    {
+      "id": "3",
+      "documentName": "AGENCY-DOCUMENT-TEST.pdf"
+    }
+  ]
+}
