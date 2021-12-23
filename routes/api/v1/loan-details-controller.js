@@ -35,7 +35,7 @@ controllerRouter.get('/:loan/financial', getFinancial);
 /** @path /loan-details/:loan/shared-documents */
 controllerRouter.get('/:loan/shared-documents', getSharedDocuments);
 /** @path /loan-details/:loan/shared-documents */
-controllerRouter.post('/:loan/shared-documents', uploadSharedDocuments);
+controllerRouter.post('/upload-documents', uploadSharedDocuments);
 
 
 // create and export default register controller function
