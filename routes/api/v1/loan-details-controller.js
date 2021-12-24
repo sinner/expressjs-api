@@ -61,6 +61,8 @@ controllerRouter.get('/:loan/private-notes', getPrivateNotes);
 controllerRouter.get('/:loan/shared-notes', getSharedNotes);
 /** @path /loan-details/:loan/edit-shared-notes */
 controllerRouter.get('/:loan/edit-shared-notes', editSharedNote);
+/** @path /loan-details/:loan/add-shared-notes */
+controllerRouter.get('/:loan/add-shared-notes', addSharedNote);
 /** @path /loan-details/:loan/delete-shared-notes */
 controllerRouter.get('/:loan/delete-shared-notes', deleteSharedNote);
 /** @path /loan-details/:loan/add-private-notes */
