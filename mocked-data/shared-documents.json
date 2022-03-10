@@ -1,16 +1,22 @@
 {
   "result": [
     {
+      "uploadedDate": "12/12/12",
+      "author": "Jose Erazo",
       "id": "1",
       "documentName": "AGENCY.doc",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
     },
     {
+      "uploadedDate": "12/12/12",
+      "author": "Jose Erazo",
       "id": "2",
       "documentName": "AGENCY.pdf",
       "description": "Lorem ipsum dolor sit amet sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
     },
     {
+      "uploadedDate": "12/12/12",
+      "author": "Jose Erazo",
       "id": "3",
       "documentName": "AGENCY-DOCUMENT-TEST.pdf",
       "description": "Lorem ipsum dolor sit amet sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
